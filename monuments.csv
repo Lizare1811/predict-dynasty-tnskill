@@ -1,0 +1,1001 @@
+Monument_ID,Monument_Type,Year_Built,Dynasty,Patron_Ruler,State,City,UNESCO_Status,Purpose,Architectural_Style,Material,Religion
+1,Temple,1551,Mughal,Akbar,Bihar,Patna,No,Memorial,Nagara,Sandstone,Syncretic
+2,Stepwell,295,Mughal,Akbar,Karnataka,Halebidu,No,Religious,Mixed,Sandstone,Christian
+3,Palace,943,Hoysala,Vishnuvardhana,West Bengal,Murshidabad,No,Memorial,Dravidian,Mixed,Buddhist
+4,Palace,1645,Chola,Raja Raja Chola,Rajasthan,Udaipur,No,Commemorative,Indo-Saracenic,Granite,Hindu
+5,Tomb/Mausoleum,670,Pallava,Narendra Pallava,Madhya Pradesh,Gwalior,No,Administrative,Indo-Saracenic,Granite,Hindu
+6,Pillar/Stambha,836,Maurya,Ashoka,Bihar,Bodh Gaya,No,Religious,Maru-Gurjara,Brick,Islam
+7,Stepwell,1126,Unknown,Unknown,Telangana,Hyderabad,No,Commemorative,Indo-Islamic,Marble,Islam
+8,Pillar/Stambha,1847,Vijayanagara,Krishna Deva Raya,Rajasthan,Jaipur,No,Residential,Indo-Islamic,Sandstone,Jain
+9,Reservoir/Tank,1194,Hoysala,Vishnuvardhana,Bihar,Nalanda,No,Commemorative,Maru-Gurjara,Granite,Hindu
+10,Pillar/Stambha,1623,Mughal,Akbar,Karnataka,Bengaluru,No,Memorial,Buddhist,Brick,Jain
+11,Palace,1852,Maratha,Shivaji Maharaj,Rajasthan,Udaipur,No,Administrative,Kalinga-Nagara,Brick,Jain
+12,Watchtower,1187,Maurya,Ashoka,Gujarat,Bhuj,No,Memorial,Nagara,Mixed,Buddhist
+13,Pillar/Stambha,590,Chola,Rani Rajya Chola,Bihar,Gaya,No,Administrative,Mixed,Basalt,Islam
+14,Reservoir/Tank,1574,Hoysala,Vishnuvardhana,Tamil Nadu,Thanjavur,No,Commemorative,Rock-cut,Brick,Hindu
+15,Rock-cut Shrine,1570,Pallava,Narendra Pallava,Odisha,Bhubaneswar,No,Religious,Indo-Islamic,Mixed,Christian
+16,Pillar/Stambha,992,Hoysala,Vishnuvardhana,Rajasthan,Bikaner,No,Religious,Mixed,Sandstone,Christian
+17,Fort,1615,Mughal,Akbar,Odisha,Bhubaneswar,No,Religious,Maru-Gurjara,Granite,Christian
+18,Tomb/Mausoleum,865,Vijayanagara,Krishnadevaraya,Odisha,Bhubaneswar,No,Military,Buddhist,Brick,Christian
+19,Stepwell,1853,Hoysala,Vishnuvardhana,Telangana,Bhuvanagiri,No,Commemorative,Maru-Gurjara,Brick,Syncretic
+20,Monastery,1763,Chola,Raja Raja Chola,Bihar,Bodh Gaya,Yes,Commemorative,Maru-Gurjara,Sandstone,Hindu
+21,Pillar/Stambha,837,Vijayanagara,Krishna Deva Raya,Kerala,Kochi,No,Religious,Dravidian,Brick,Buddhist
+22,Fort,943,Mughal,Aurangzeb,Telangana,Warangal,No,Military,Maru-Gurjara,Basalt,Christian
+23,Monastery,1043,Hoysala,Vishnuvardhana,Madhya Pradesh,Sanchi,No,Religious,Maru-Gurjara,Basalt,Hindu
+24,Stepwell,1174,Maurya,Ashoka,Uttar Pradesh,Jhansi,No,Residential,Nagara,Brick,Hindu
+25,Palace,1075,Gond,Rani Durgavati,Delhi,New Delhi,No,Commemorative,Indo-Saracenic,Sandstone,Buddhist
+26,Monastery,1864,Chola,Raja Raja Chola,Telangana,Hyderabad,No,Religious,Mixed,Granite,Hindu
+27,Mosque,1047,Mughal,Akbar,Telangana,Hyderabad,No,Military,Indo-Saracenic,Mixed,Hindu
+28,Tomb/Mausoleum,1593,Vijayanagara,Harihara I,Andhra Pradesh,Amaravati,No,Memorial,Mixed,Brick,Syncretic
+29,Palace,1894,Vijayanagara,Krishna Deva Raya,Gujarat,Junagadh,Yes,Commemorative,Dravidian,Limestone,Syncretic
+30,Watchtower,1844,Vijayanagara,Krishnadevaraya,Madhya Pradesh,Ujjain,Yes,Military,Mixed,Granite,Hindu
+31,Stepwell,783,Mughal,Akbar,Karnataka,Bengaluru,No,Administrative,Kalinga-Nagara,Limestone,Hindu
+32,Stupa,1167,Chalukya,Pulakeshin II,Bihar,Bodh Gaya,No,Military,Kalinga,Sandstone,Jain
+33,Cave,1375,Maurya,Ashoka,Rajasthan,Chittorgarh,Yes,Religious,Kalinga-Nagara,Basalt,Christian
+34,Stupa,557,Chola,Raja Raja Chola,Gujarat,Dwarka,No,Military,Rock-cut,Sandstone,Islam
+35,Pillar/Stambha,1842,Maurya,Ashoka,Kerala,Kollam,No,Memorial,Mixed,Brick,Islam
+36,Fort,1867,Vijayanagara,Krishnadevaraya,Maharashtra,Aurangabad,No,Military,Kalinga,Marble,Christian
+37,Watchtower,1264,Unknown,Unknown,Gujarat,Junagadh,No,Residential,Nagara,Granite,Syncretic
+38,Cave,1569,Vijayanagara,Krishnadevaraya,Tamil Nadu,Thanjavur,No,Memorial,Buddhist,Brick,Christian
+39,Fort,1453,Pallava,Narendra Pallava,Tamil Nadu,Thanjavur,No,Administrative,Rock-cut,Granite,Christian
+40,Stupa,1278,Hoysala,Vishnuvardhana,Maharashtra,Mumbai,No,Military,Dravidian,Mixed,Islam
+41,Cave,1717,Chola,Rani Rajya Chola,Bihar,Patna,No,Military,Indo-Islamic,Brick,Buddhist
+42,Stepwell,540,Hoysala,Vishnuvardhana,Delhi,New Delhi,No,Military,Maru-Gurjara,Basalt,Islam
+43,Gateway/Arch,681,Mughal,Akbar,Karnataka,Belur,No,Commemorative,Buddhist,Sandstone,Islam
+44,Palace,397,Vijayanagara,Harihara I,Telangana,Hyderabad,No,Commemorative,Kalinga,Marble,Hindu
+45,Reservoir/Tank,1850,Chalukya,Pulakeshin II,Kerala,Thrissur,No,Military,Nagara,Granite,Islam
+46,Fort,1654,Vijayanagara,Krishna Deva Raya,Rajasthan,Jaipur,No,Administrative,Rock-cut,Mixed,Jain
+47,Pillar/Stambha,823,Vijayanagara,Krishna Deva Raya,Karnataka,Belur,No,Administrative,Dravidian,Basalt,Christian
+48,Cave,1286,Mughal,Aurangzeb,West Bengal,Darjeeling,No,Memorial,Kalinga-Nagara,Marble,Islam
+49,Watchtower,1010,Chalukya,Pulakeshin II,West Bengal,Shantiniketan,No,Military,Kalinga,Basalt,Christian
+50,Reservoir/Tank,1479,Chola,Rani Rajya Chola,Bihar,Gaya,No,Administrative,Kalinga,Limestone,Jain
+51,Palace,1097,Chola,Rani Rajya Chola,Rajasthan,Jodhpur,No,Residential,Rock-cut,Brick,Jain
+52,Monastery,1474,Mughal,Aurangzeb,Gujarat,Dwarka,No,Memorial,Kalinga,Granite,Christian
+53,Gateway/Arch,1541,Mughal,Aurangzeb,Uttar Pradesh,Agra,Yes,Military,Maru-Gurjara,Marble,Buddhist
+54,Pillar/Stambha,1375,Gond,Rani Durgavati,Gujarat,Vadodara,No,Memorial,Kalinga-Nagara,Basalt,Buddhist
+55,Palace,205,Hoysala,Vishnuvardhana,Odisha,Konark,No,Military,Nagara,Mixed,Jain
+56,Temple,1425,Gond,Rani Durgavati,West Bengal,Murshidabad,No,Administrative,Buddhist,Sandstone,Syncretic
+57,Tomb/Mausoleum,1817,Vijayanagara,Harihara I,Madhya Pradesh,Gwalior,No,Military,Mixed,Mixed,Jain
+58,Stupa,1584,Hoysala,Vishnuvardhana,Odisha,Konark,No,Memorial,Mixed,Mixed,Jain
+59,Rock-cut Shrine,940,Chalukya,Pulakeshin II,Odisha,Bhubaneswar,No,Military,Mixed,Marble,Hindu
+60,Rock-cut Shrine,1013,Vijayanagara,Harihara I,Andhra Pradesh,Vijayawada,Yes,Residential,Mixed,Marble,Jain
+61,Stepwell,1899,Vijayanagara,Krishna Deva Raya,Telangana,Warangal,Yes,Residential,Kalinga-Nagara,Granite,Jain
+62,Tomb/Mausoleum,1257,Unknown,Unknown,Uttar Pradesh,Lucknow,No,Memorial,Mixed,Basalt,Syncretic
+63,Monastery,1024,Gond,Rani Durgavati,Madhya Pradesh,Bhopal,No,Memorial,Indo-Saracenic,Granite,Islam
+64,Gateway/Arch,866,Chola,Rani Rajya Chola,Andhra Pradesh,Vijayawada,No,Administrative,Dravidian,Limestone,Jain
+65,Reservoir/Tank,1244,Gond,Rani Durgavati,Tamil Nadu,Thanjavur,No,Residential,Dravidian,Sandstone,Islam
+66,Cave,1689,Maratha,Shivaji Maharaj,Odisha,Cuttack,No,Religious,Indo-Saracenic,Mixed,Islam
+67,Cave,836,Hoysala,Vishnuvardhana,West Bengal,Kolkata,No,Military,Dravidian,Brick,Hindu
+68,Mosque,1043,Mughal,Aurangzeb,Tamil Nadu,Chidambaram,No,Residential,Kalinga-Nagara,Granite,Buddhist
+69,Mosque,1418,Hoysala,Vishnuvardhana,Delhi,Old Delhi,No,Religious,Indo-Islamic,Mixed,Islam
+70,Reservoir/Tank,1685,Vijayanagara,Harihara I,Rajasthan,Bikaner,No,Administrative,Maru-Gurjara,Brick,Hindu
+71,Fort,1609,Unknown,Unknown,Bihar,Nalanda,No,Administrative,Kalinga-Nagara,Brick,Hindu
+72,Stepwell,1371,Pallava,Narendra Pallava,Uttar Pradesh,Mathura,No,Residential,Rock-cut,Brick,Hindu
+73,Cave,1771,Vijayanagara,Krishna Deva Raya,Karnataka,Belur,No,Memorial,Indo-Saracenic,Sandstone,Buddhist
+74,Pillar/Stambha,1852,Hoysala,Vishnuvardhana,Bihar,Bodh Gaya,No,Memorial,Buddhist,Basalt,Jain
+75,Gateway/Arch,1586,Gond,Rani Durgavati,Uttar Pradesh,Varanasi,No,Administrative,Buddhist,Sandstone,Christian
+76,Monastery,1487,Gond,Rani Durgavati,Uttar Pradesh,Agra,No,Commemorative,Rock-cut,Sandstone,Islam
+77,Watchtower,395,Chola,Raja Raja Chola,Madhya Pradesh,Gwalior,No,Administrative,Indo-Saracenic,Sandstone,Jain
+78,Reservoir/Tank,1759,Hoysala,Vishnuvardhana,West Bengal,Murshidabad,No,Military,Nagara,Granite,Islam
+79,Reservoir/Tank,1785,Pallava,Narendra Pallava,Gujarat,Junagadh,No,Memorial,Rock-cut,Limestone,Jain
+80,Stupa,919,Chola,Raja Raja Chola,Uttar Pradesh,Jhansi,No,Religious,Maru-Gurjara,Brick,Islam
+81,Palace,1048,Maratha,Shivaji Maharaj,Delhi,New Delhi,No,Administrative,Kalinga-Nagara,Brick,Christian
+82,Stupa,892,Maratha,Shivaji Maharaj,Karnataka,Bengaluru,Yes,Commemorative,Mixed,Granite,Buddhist
+83,Stupa,1430,Mughal,Aurangzeb,Tamil Nadu,Chidambaram,No,Religious,Buddhist,Mixed,Hindu
+84,Monastery,1295,Maurya,Ashoka,Odisha,Konark,No,Religious,Buddhist,Marble,Hindu
+85,Reservoir/Tank,1456,Vijayanagara,Krishnadevaraya,Karnataka,Halebidu,No,Religious,Kalinga-Nagara,Mixed,Islam
+86,Tomb/Mausoleum,1106,Hoysala,Vishnuvardhana,Karnataka,Halebidu,No,Residential,Maru-Gurjara,Limestone,Christian
+87,Gateway/Arch,1740,Maratha,Shivaji Maharaj,Odisha,Cuttack,No,Administrative,Kalinga-Nagara,Limestone,Hindu
+88,Reservoir/Tank,1139,Chola,Raja Raja Chola,Karnataka,Bengaluru,Yes,Administrative,Maru-Gurjara,Sandstone,Buddhist
+89,Monastery,1782,Maratha,Shivaji Maharaj,Tamil Nadu,Tiruchirappalli,No,Memorial,Maru-Gurjara,Granite,Islam
+90,Fort,1571,Hoysala,Vishnuvardhana,Telangana,Warangal,No,Military,Kalinga-Nagara,Mixed,Syncretic
+91,Reservoir/Tank,472,Unknown,Unknown,Kerala,Kochi,No,Military,Nagara,Sandstone,Hindu
+92,Stupa,1040,Vijayanagara,Krishna Deva Raya,Madhya Pradesh,Sanchi,No,Administrative,Indo-Saracenic,Marble,Islam
+93,Pillar/Stambha,642,Vijayanagara,Krishna Deva Raya,Odisha,Bhubaneswar,No,Religious,Kalinga-Nagara,Marble,Islam
+94,Tomb/Mausoleum,1576,Chola,Rani Rajya Chola,Bihar,Patna,No,Administrative,Indo-Islamic,Granite,Jain
+95,Pillar/Stambha,1217,Gond,Rani Durgavati,Rajasthan,Udaipur,No,Residential,Buddhist,Granite,Islam
+96,Gateway/Arch,621,Vijayanagara,Krishna Deva Raya,Bihar,Patna,No,Residential,Kalinga,Basalt,Syncretic
+97,Monastery,458,Chalukya,Pulakeshin II,Kerala,Thiruvananthapuram,No,Religious,Indo-Saracenic,Granite,Christian
+98,Stepwell,730,Chalukya,Pulakeshin II,Kerala,Thrissur,No,Residential,Buddhist,Limestone,Syncretic
+99,Watchtower,494,Gond,Rani Durgavati,Gujarat,Junagadh,No,Religious,Buddhist,Brick,Hindu
+100,Rock-cut Shrine,764,Maurya,Ashoka,Madhya Pradesh,Bhopal,No,Military,Indo-Saracenic,Limestone,Hindu
+101,Fort,1458,Gond,Rani Durgavati,Karnataka,Belur,No,Memorial,Kalinga,Brick,Christian
+102,Monastery,1083,Vijayanagara,Krishnadevaraya,Telangana,Warangal,No,Administrative,Maru-Gurjara,Basalt,Christian
+103,Stupa,1725,Chalukya,Pulakeshin II,Maharashtra,Mumbai,No,Religious,Mixed,Mixed,Islam
+104,Pillar/Stambha,1802,Unknown,Unknown,Rajasthan,Bikaner,No,Residential,Buddhist,Sandstone,Christian
+105,Stepwell,965,Unknown,Unknown,Kerala,Kozhikode,No,Residential,Maru-Gurjara,Sandstone,Christian
+106,Temple,1043,Vijayanagara,Krishna Deva Raya,Delhi,Old Delhi,No,Memorial,Indo-Saracenic,Mixed,Jain
+107,Monastery,1430,Pallava,Narendra Pallava,Bihar,Nalanda,No,Residential,Rock-cut,Limestone,Hindu
+108,Rock-cut Shrine,358,Chola,Raja Raja Chola,Odisha,Bhubaneswar,No,Administrative,Kalinga,Basalt,Islam
+109,Gateway/Arch,1146,Unknown,Unknown,Bihar,Patna,No,Memorial,Indo-Saracenic,Limestone,Islam
+110,Gateway/Arch,1117,Chola,Raja Raja Chola,Delhi,Old Delhi,No,Memorial,Kalinga,Sandstone,Buddhist
+111,Monastery,506,Maurya,Ashoka,Karnataka,Hampi,No,Commemorative,Rock-cut,Granite,Hindu
+112,Palace,1090,Mughal,Aurangzeb,Andhra Pradesh,Vijayawada,Yes,Military,Indo-Islamic,Mixed,Buddhist
+113,Pillar/Stambha,1810,Chola,Rani Rajya Chola,Telangana,Warangal,No,Memorial,Maru-Gurjara,Sandstone,Jain
+114,Tomb/Mausoleum,948,Mughal,Aurangzeb,Rajasthan,Jaipur,No,Residential,Indo-Islamic,Limestone,Hindu
+115,Reservoir/Tank,1557,Gond,Rani Durgavati,Madhya Pradesh,Gwalior,No,Residential,Kalinga,Mixed,Buddhist
+116,Stepwell,1889,Maratha,Shivaji Maharaj,Karnataka,Bengaluru,No,Memorial,Kalinga,Brick,Hindu
+117,Gateway/Arch,1351,Chola,Rani Rajya Chola,Tamil Nadu,Chidambaram,No,Military,Buddhist,Brick,Islam
+118,Reservoir/Tank,929,Mughal,Aurangzeb,Uttar Pradesh,Varanasi,No,Religious,Indo-Islamic,Mixed,Syncretic
+119,Stupa,1335,Chola,Rani Rajya Chola,Bihar,Patna,No,Commemorative,Indo-Islamic,Marble,Hindu
+120,Palace,752,Chalukya,Pulakeshin II,Andhra Pradesh,Vijayawada,No,Military,Mixed,Limestone,Islam
+121,Tomb/Mausoleum,1246,Chalukya,Pulakeshin II,Telangana,Warangal,No,Religious,Nagara,Mixed,Jain
+122,Gateway/Arch,1675,Chola,Raja Raja Chola,Gujarat,Vadodara,No,Commemorative,Indo-Saracenic,Mixed,Hindu
+123,Reservoir/Tank,1569,Chola,Rani Rajya Chola,Odisha,Cuttack,No,Memorial,Rock-cut,Basalt,Hindu
+124,Watchtower,1113,Mughal,Akbar,Tamil Nadu,Chidambaram,No,Residential,Nagara,Brick,Syncretic
+125,Fort,238,Maratha,Shivaji Maharaj,Rajasthan,Chittorgarh,No,Military,Nagara,Basalt,Hindu
+126,Monastery,1287,Vijayanagara,Krishna Deva Raya,Maharashtra,Nagpur,No,Administrative,Mixed,Brick,Jain
+127,Reservoir/Tank,701,Chola,Rani Rajya Chola,Maharashtra,Nagpur,No,Memorial,Kalinga,Basalt,Hindu
+128,Palace,1402,Mughal,Aurangzeb,Odisha,Konark,Yes,Commemorative,Mixed,Marble,Syncretic
+129,Fort,1766,Chola,Raja Raja Chola,Rajasthan,Udaipur,No,Memorial,Maru-Gurjara,Brick,Syncretic
+130,Tomb/Mausoleum,865,Hoysala,Vishnuvardhana,Tamil Nadu,Thanjavur,No,Administrative,Maru-Gurjara,Limestone,Hindu
+131,Cave,1303,Maratha,Shivaji Maharaj,Gujarat,Bhuj,No,Administrative,Indo-Islamic,Mixed,Buddhist
+132,Reservoir/Tank,1435,Maurya,Ashoka,Maharashtra,Mumbai,Yes,Commemorative,Maru-Gurjara,Marble,Christian
+133,Mosque,1839,Chola,Raja Raja Chola,Rajasthan,Jaipur,No,Residential,Nagara,Brick,Jain
+134,Fort,914,Chola,Rani Rajya Chola,Kerala,Kozhikode,No,Residential,Mixed,Granite,Islam
+135,Monastery,1737,Mughal,Aurangzeb,Tamil Nadu,Thanjavur,Yes,Residential,Buddhist,Granite,Syncretic
+136,Pillar/Stambha,329,Maratha,Shivaji Maharaj,Karnataka,Mysore,No,Memorial,Kalinga-Nagara,Limestone,Christian
+137,Stupa,1110,Vijayanagara,Harihara I,Madhya Pradesh,Sanchi,No,Memorial,Nagara,Granite,Syncretic
+138,Stepwell,917,Vijayanagara,Harihara I,Kerala,Kochi,No,Residential,Buddhist,Marble,Jain
+139,Cave,1684,Vijayanagara,Krishnadevaraya,Uttar Pradesh,Jhansi,No,Religious,Buddhist,Brick,Hindu
+140,Fort,1682,Hoysala,Vishnuvardhana,Karnataka,Belur,No,Administrative,Mixed,Sandstone,Hindu
+141,Reservoir/Tank,562,Unknown,Unknown,Kerala,Kollam,No,Religious,Indo-Saracenic,Brick,Syncretic
+142,Cave,719,Mughal,Akbar,Madhya Pradesh,Gwalior,No,Religious,Buddhist,Sandstone,Buddhist
+143,Fort,1888,Mughal,Akbar,Kerala,Kollam,No,Administrative,Indo-Saracenic,Mixed,Christian
+144,Pillar/Stambha,1574,Maurya,Ashoka,Bihar,Patna,No,Commemorative,Kalinga,Sandstone,Syncretic
+145,Mosque,1880,Mughal,Aurangzeb,Uttar Pradesh,Agra,No,Memorial,Nagara,Basalt,Buddhist
+146,Rock-cut Shrine,993,Vijayanagara,Harihara I,Tamil Nadu,Thanjavur,No,Commemorative,Rock-cut,Basalt,Buddhist
+147,Pillar/Stambha,253,Vijayanagara,Krishnadevaraya,Uttar Pradesh,Mathura,No,Memorial,Kalinga-Nagara,Sandstone,Hindu
+148,Monastery,1725,Maratha,Shivaji Maharaj,Odisha,Konark,No,Commemorative,Mixed,Sandstone,Hindu
+149,Monastery,958,Maurya,Ashoka,Rajasthan,Bikaner,Yes,Religious,Indo-Saracenic,Sandstone,Christian
+150,Tomb/Mausoleum,461,Maratha,Shivaji Maharaj,Rajasthan,Udaipur,No,Residential,Nagara,Marble,Hindu
+151,Stepwell,918,Pallava,Narendra Pallava,Maharashtra,Pune,No,Residential,Rock-cut,Limestone,Hindu
+152,Temple,840,Unknown,Unknown,Tamil Nadu,Tiruchirappalli,No,Administrative,Kalinga-Nagara,Marble,Jain
+153,Stupa,221,Chalukya,Pulakeshin II,Bihar,Gaya,No,Memorial,Kalinga-Nagara,Sandstone,Jain
+154,Gateway/Arch,646,Chola,Rani Rajya Chola,Karnataka,Belur,No,Residential,Mixed,Basalt,Hindu
+155,Palace,887,Chola,Raja Raja Chola,West Bengal,Shantiniketan,No,Administrative,Nagara,Limestone,Christian
+156,Cave,1452,Mughal,Akbar,Delhi,Old Delhi,No,Military,Indo-Islamic,Granite,Islam
+157,Mosque,1806,Gond,Rani Durgavati,Maharashtra,Mumbai,No,Residential,Kalinga-Nagara,Mixed,Christian
+158,Cave,1624,Vijayanagara,Krishnadevaraya,Madhya Pradesh,Sanchi,No,Residential,Nagara,Basalt,Jain
+159,Pillar/Stambha,719,Chola,Raja Raja Chola,Delhi,Old Delhi,Yes,Religious,Buddhist,Marble,Jain
+160,Fort,1393,Chola,Rani Rajya Chola,Telangana,Warangal,No,Residential,Mixed,Limestone,Jain
+161,Monastery,1886,Mughal,Aurangzeb,Delhi,New Delhi,No,Residential,Rock-cut,Sandstone,Christian
+162,Fort,1652,Vijayanagara,Krishna Deva Raya,Tamil Nadu,Tiruchirappalli,Yes,Military,Mixed,Granite,Syncretic
+163,Monastery,1113,Vijayanagara,Krishnadevaraya,West Bengal,Murshidabad,No,Residential,Rock-cut,Marble,Islam
+164,Temple,1643,Chola,Raja Raja Chola,Uttar Pradesh,Mathura,No,Memorial,Nagara,Marble,Christian
+165,Gateway/Arch,283,Chola,Rani Rajya Chola,Rajasthan,Bikaner,No,Commemorative,Indo-Islamic,Brick,Islam
+166,Mosque,1387,Maratha,Shivaji Maharaj,West Bengal,Murshidabad,No,Commemorative,Indo-Saracenic,Limestone,Syncretic
+167,Reservoir/Tank,1821,Chalukya,Pulakeshin II,Bihar,Patna,No,Military,Rock-cut,Granite,Islam
+168,Palace,871,Vijayanagara,Krishnadevaraya,Uttar Pradesh,Jhansi,No,Administrative,Kalinga,Granite,Hindu
+169,Watchtower,544,Hoysala,Vishnuvardhana,Telangana,Bhuvanagiri,No,Residential,Indo-Islamic,Limestone,Christian
+170,Tomb/Mausoleum,1749,Maurya,Ashoka,Maharashtra,Panhala,No,Memorial,Rock-cut,Basalt,Syncretic
+171,Stupa,1760,Mughal,Akbar,Odisha,Sonepur,No,Residential,Maru-Gurjara,Limestone,Islam
+172,Reservoir/Tank,1752,Gond,Rani Durgavati,Gujarat,Junagadh,No,Administrative,Kalinga,Mixed,Jain
+173,Tomb/Mausoleum,1557,Maurya,Ashoka,Maharashtra,Pune,No,Administrative,Buddhist,Brick,Islam
+174,Stupa,364,Maratha,Shivaji Maharaj,West Bengal,Kolkata,No,Residential,Mixed,Basalt,Buddhist
+175,Cave,1725,Maurya,Ashoka,Gujarat,Vadodara,No,Military,Mixed,Basalt,Islam
+176,Palace,301,Unknown,Unknown,Karnataka,Mysore,Yes,Military,Rock-cut,Brick,Buddhist
+177,Rock-cut Shrine,1781,Gond,Rani Durgavati,Telangana,Warangal,No,Religious,Dravidian,Limestone,Hindu
+178,Watchtower,1841,Vijayanagara,Harihara I,Telangana,Hyderabad,No,Commemorative,Kalinga,Granite,Buddhist
+179,Reservoir/Tank,1769,Chola,Raja Raja Chola,Gujarat,Vadodara,Yes,Administrative,Buddhist,Granite,Christian
+180,Palace,1599,Vijayanagara,Harihara I,Kerala,Kozhikode,No,Military,Kalinga-Nagara,Granite,Islam
+181,Watchtower,1370,Pallava,Narendra Pallava,Maharashtra,Mumbai,Yes,Administrative,Mixed,Limestone,Christian
+182,Temple,1683,Maratha,Shivaji Maharaj,Telangana,Warangal,No,Religious,Dravidian,Brick,Islam
+183,Tomb/Mausoleum,1641,Vijayanagara,Krishnadevaraya,West Bengal,Kolkata,No,Commemorative,Rock-cut,Granite,Christian
+184,Rock-cut Shrine,894,Hoysala,Vishnuvardhana,Maharashtra,Nagpur,Yes,Residential,Nagara,Sandstone,Syncretic
+185,Tomb/Mausoleum,822,Chalukya,Pulakeshin II,Gujarat,Ahmedabad,No,Administrative,Mixed,Marble,Jain
+186,Stupa,1200,Maurya,Ashoka,Tamil Nadu,Madurai,No,Religious,Rock-cut,Mixed,Islam
+187,Rock-cut Shrine,1290,Vijayanagara,Harihara I,Andhra Pradesh,Nellore,No,Memorial,Indo-Islamic,Marble,Jain
+188,Tomb/Mausoleum,634,Chola,Raja Raja Chola,Delhi,Old Delhi,No,Administrative,Kalinga-Nagara,Basalt,Buddhist
+189,Cave,1614,Gond,Rani Durgavati,Karnataka,Hampi,No,Memorial,Indo-Saracenic,Limestone,Buddhist
+190,Rock-cut Shrine,1662,Chola,Rani Rajya Chola,Odisha,Bhubaneswar,Yes,Religious,Kalinga,Basalt,Syncretic
+191,Cave,1184,Mughal,Aurangzeb,Bihar,Gaya,No,Administrative,Dravidian,Sandstone,Buddhist
+192,Mosque,575,Chalukya,Pulakeshin II,Odisha,Bhubaneswar,No,Administrative,Kalinga-Nagara,Basalt,Hindu
+193,Cave,840,Chola,Rani Rajya Chola,Odisha,Cuttack,No,Residential,Mixed,Sandstone,Islam
+194,Fort,390,Gond,Rani Durgavati,Rajasthan,Udaipur,No,Religious,Indo-Saracenic,Limestone,Christian
+195,Palace,1593,Vijayanagara,Krishna Deva Raya,Rajasthan,Chittorgarh,No,Military,Maru-Gurjara,Basalt,Hindu
+196,Rock-cut Shrine,845,Hoysala,Vishnuvardhana,Odisha,Puri,No,Commemorative,Rock-cut,Brick,Syncretic
+197,Stupa,1462,Vijayanagara,Krishna Deva Raya,Kerala,Kozhikode,No,Administrative,Indo-Islamic,Brick,Islam
+198,Palace,1327,Chalukya,Pulakeshin II,Gujarat,Bhuj,No,Residential,Kalinga-Nagara,Limestone,Islam
+199,Pillar/Stambha,1368,Maratha,Shivaji Maharaj,Kerala,Kochi,No,Residential,Buddhist,Basalt,Christian
+200,Fort,524,Mughal,Aurangzeb,Telangana,Bhuvanagiri,No,Memorial,Buddhist,Granite,Jain
+201,Reservoir/Tank,1433,Vijayanagara,Harihara I,Maharashtra,Panhala,No,Administrative,Dravidian,Limestone,Hindu
+202,Cave,1531,Chalukya,Pulakeshin II,Maharashtra,Pune,No,Commemorative,Kalinga,Limestone,Hindu
+203,Mosque,1847,Chola,Raja Raja Chola,Kerala,Kollam,No,Administrative,Indo-Islamic,Limestone,Christian
+204,Gateway/Arch,1343,Unknown,Unknown,Bihar,Bodh Gaya,No,Religious,Dravidian,Mixed,Hindu
+205,Reservoir/Tank,1093,Vijayanagara,Harihara I,Delhi,Old Delhi,No,Memorial,Dravidian,Limestone,Jain
+206,Monastery,1214,Mughal,Aurangzeb,Bihar,Bodh Gaya,No,Religious,Kalinga,Basalt,Jain
+207,Stepwell,905,Chalukya,Pulakeshin II,Maharashtra,Nagpur,No,Memorial,Indo-Islamic,Limestone,Islam
+208,Stepwell,579,Pallava,Narendra Pallava,Telangana,Warangal,No,Military,Nagara,Limestone,Islam
+209,Palace,251,Maratha,Shivaji Maharaj,Rajasthan,Chittorgarh,No,Military,Kalinga-Nagara,Basalt,Jain
+210,Pillar/Stambha,1495,Hoysala,Vishnuvardhana,Maharashtra,Aurangabad,No,Residential,Buddhist,Sandstone,Christian
+211,Temple,602,Pallava,Narendra Pallava,Rajasthan,Chittorgarh,No,Administrative,Maru-Gurjara,Basalt,Buddhist
+212,Monastery,1782,Maratha,Shivaji Maharaj,Tamil Nadu,Kanchipuram,No,Residential,Dravidian,Limestone,Hindu
+213,Tomb/Mausoleum,824,Vijayanagara,Harihara I,Rajasthan,Jodhpur,No,Military,Kalinga-Nagara,Granite,Christian
+214,Stepwell,1192,Pallava,Narendra Pallava,Rajasthan,Jaipur,No,Administrative,Kalinga-Nagara,Marble,Syncretic
+215,Cave,1648,Pallava,Narendra Pallava,Karnataka,Belur,No,Administrative,Indo-Islamic,Marble,Buddhist
+216,Temple,541,Hoysala,Vishnuvardhana,Kerala,Thiruvananthapuram,No,Military,Mixed,Basalt,Jain
+217,Cave,1627,Vijayanagara,Krishnadevaraya,Kerala,Kochi,No,Commemorative,Kalinga-Nagara,Basalt,Syncretic
+218,Watchtower,1089,Maratha,Shivaji Maharaj,Kerala,Kozhikode,No,Commemorative,Dravidian,Basalt,Islam
+219,Stupa,1328,Chola,Rani Rajya Chola,Andhra Pradesh,Guntur,No,Administrative,Kalinga,Basalt,Syncretic
+220,Pillar/Stambha,1069,Mughal,Aurangzeb,West Bengal,Kolkata,No,Military,Kalinga-Nagara,Brick,Jain
+221,Pillar/Stambha,1413,Mughal,Akbar,Gujarat,Ahmedabad,No,Residential,Buddhist,Granite,Islam
+222,Stepwell,1114,Gond,Rani Durgavati,West Bengal,Darjeeling,No,Military,Dravidian,Mixed,Syncretic
+223,Reservoir/Tank,993,Chalukya,Pulakeshin II,Kerala,Kollam,No,Commemorative,Buddhist,Sandstone,Christian
+224,Pillar/Stambha,1291,Mughal,Akbar,Bihar,Bodh Gaya,No,Military,Mixed,Marble,Islam
+225,Rock-cut Shrine,1161,Gond,Rani Durgavati,Rajasthan,Jodhpur,No,Administrative,Buddhist,Marble,Islam
+226,Stupa,756,Vijayanagara,Harihara I,Delhi,Old Delhi,Yes,Commemorative,Rock-cut,Basalt,Buddhist
+227,Cave,1563,Vijayanagara,Krishna Deva Raya,West Bengal,Kolkata,No,Administrative,Maru-Gurjara,Basalt,Buddhist
+228,Mosque,800,Mughal,Akbar,Kerala,Kollam,No,Administrative,Dravidian,Sandstone,Syncretic
+229,Fort,1168,Gond,Rani Durgavati,Gujarat,Ahmedabad,No,Administrative,Indo-Islamic,Granite,Hindu
+230,Reservoir/Tank,1788,Gond,Rani Durgavati,Maharashtra,Nagpur,No,Commemorative,Maru-Gurjara,Brick,Islam
+231,Reservoir/Tank,1848,Vijayanagara,Krishna Deva Raya,Tamil Nadu,Thanjavur,No,Residential,Dravidian,Brick,Buddhist
+232,Gateway/Arch,1054,Vijayanagara,Krishnadevaraya,Maharashtra,Mumbai,No,Religious,Kalinga,Brick,Hindu
+233,Cave,1129,Pallava,Narendra Pallava,Madhya Pradesh,Khajuraho,No,Administrative,Buddhist,Limestone,Buddhist
+234,Cave,669,Mughal,Aurangzeb,Gujarat,Ahmedabad,No,Memorial,Indo-Islamic,Marble,Hindu
+235,Reservoir/Tank,1480,Chola,Rani Rajya Chola,Rajasthan,Bikaner,No,Administrative,Indo-Saracenic,Mixed,Jain
+236,Mosque,1789,Chalukya,Pulakeshin II,Andhra Pradesh,Tirupati,No,Residential,Dravidian,Sandstone,Islam
+237,Cave,1171,Chola,Rani Rajya Chola,Delhi,Old Delhi,No,Commemorative,Kalinga,Granite,Syncretic
+238,Monastery,1008,Mughal,Aurangzeb,Tamil Nadu,Thanjavur,No,Religious,Kalinga,Limestone,Syncretic
+239,Pillar/Stambha,1291,Vijayanagara,Krishnadevaraya,Rajasthan,Jodhpur,No,Memorial,Indo-Islamic,Basalt,Jain
+240,Rock-cut Shrine,1042,Hoysala,Vishnuvardhana,Uttar Pradesh,Jhansi,No,Memorial,Maru-Gurjara,Limestone,Buddhist
+241,Watchtower,1161,Chalukya,Pulakeshin II,Telangana,Hyderabad,No,Religious,Kalinga-Nagara,Granite,Hindu
+242,Pillar/Stambha,885,Chalukya,Pulakeshin II,Kerala,Kochi,No,Religious,Mixed,Mixed,Jain
+243,Fort,1757,Hoysala,Vishnuvardhana,West Bengal,Murshidabad,No,Administrative,Buddhist,Granite,Buddhist
+244,Watchtower,1214,Maratha,Shivaji Maharaj,Madhya Pradesh,Khajuraho,No,Commemorative,Dravidian,Brick,Jain
+245,Pillar/Stambha,633,Chalukya,Pulakeshin II,West Bengal,Darjeeling,No,Religious,Nagara,Brick,Christian
+246,Temple,893,Hoysala,Vishnuvardhana,Karnataka,Belur,No,Residential,Indo-Saracenic,Sandstone,Islam
+247,Fort,1853,Vijayanagara,Krishnadevaraya,Andhra Pradesh,Nellore,No,Military,Rock-cut,Brick,Hindu
+248,Mosque,1529,Unknown,Unknown,Andhra Pradesh,Guntur,No,Residential,Dravidian,Granite,Islam
+249,Watchtower,918,Mughal,Akbar,Kerala,Thrissur,No,Commemorative,Rock-cut,Basalt,Buddhist
+250,Temple,1730,Chola,Rani Rajya Chola,West Bengal,Kolkata,Yes,Military,Dravidian,Mixed,Buddhist
+251,Monastery,1350,Mughal,Akbar,Madhya Pradesh,Khajuraho,No,Residential,Dravidian,Brick,Jain
+252,Mosque,949,Mughal,Akbar,Gujarat,Ahmedabad,No,Administrative,Kalinga-Nagara,Mixed,Islam
+253,Palace,874,Mughal,Aurangzeb,Bihar,Bodh Gaya,No,Commemorative,Maru-Gurjara,Limestone,Jain
+254,Rock-cut Shrine,1738,Pallava,Narendra Pallava,Kerala,Kozhikode,No,Memorial,Dravidian,Basalt,Islam
+255,Rock-cut Shrine,877,Maratha,Shivaji Maharaj,Delhi,Old Delhi,No,Residential,Indo-Islamic,Basalt,Christian
+256,Gateway/Arch,1775,Maurya,Ashoka,Gujarat,Junagadh,No,Administrative,Indo-Saracenic,Limestone,Jain
+257,Stupa,1132,Chola,Raja Raja Chola,Andhra Pradesh,Vijayawada,No,Administrative,Rock-cut,Basalt,Hindu
+258,Stupa,1110,Chola,Rani Rajya Chola,Gujarat,Ahmedabad,No,Administrative,Nagara,Granite,Buddhist
+259,Monastery,1265,Chalukya,Pulakeshin II,Kerala,Kochi,No,Military,Dravidian,Marble,Buddhist
+260,Palace,1510,Vijayanagara,Harihara I,Karnataka,Belur,No,Commemorative,Mixed,Sandstone,Islam
+261,Stupa,1063,Gond,Rani Durgavati,Kerala,Kollam,No,Residential,Nagara,Basalt,Syncretic
+262,Cave,824,Chola,Rani Rajya Chola,Uttar Pradesh,Varanasi,Yes,Military,Maru-Gurjara,Mixed,Syncretic
+263,Pillar/Stambha,1603,Vijayanagara,Krishnadevaraya,Kerala,Kozhikode,No,Residential,Rock-cut,Sandstone,Buddhist
+264,Watchtower,1646,Maratha,Shivaji Maharaj,Gujarat,Vadodara,No,Memorial,Buddhist,Mixed,Syncretic
+265,Rock-cut Shrine,1474,Vijayanagara,Krishnadevaraya,Odisha,Puri,No,Military,Mixed,Brick,Jain
+266,Watchtower,276,Unknown,Unknown,Kerala,Thiruvananthapuram,No,Residential,Dravidian,Brick,Hindu
+267,Fort,1310,Mughal,Akbar,Bihar,Nalanda,No,Religious,Buddhist,Limestone,Islam
+268,Reservoir/Tank,804,Pallava,Narendra Pallava,Bihar,Gaya,No,Religious,Indo-Saracenic,Limestone,Hindu
+269,Stupa,640,Hoysala,Vishnuvardhana,Rajasthan,Bikaner,No,Administrative,Nagara,Sandstone,Hindu
+270,Watchtower,982,Maratha,Shivaji Maharaj,Gujarat,Dwarka,No,Commemorative,Indo-Saracenic,Mixed,Hindu
+271,Palace,1532,Maratha,Shivaji Maharaj,Odisha,Sonepur,No,Memorial,Nagara,Brick,Syncretic
+272,Stepwell,1044,Maurya,Ashoka,Karnataka,Belur,No,Military,Dravidian,Brick,Syncretic
+273,Reservoir/Tank,1880,Unknown,Unknown,Telangana,Warangal,No,Military,Mixed,Granite,Hindu
+274,Pillar/Stambha,824,Chola,Raja Raja Chola,Telangana,Bhuvanagiri,No,Administrative,Kalinga,Brick,Christian
+275,Temple,1448,Hoysala,Vishnuvardhana,Maharashtra,Aurangabad,No,Commemorative,Indo-Saracenic,Mixed,Hindu
+276,Gateway/Arch,1854,Chalukya,Pulakeshin II,Gujarat,Dwarka,Yes,Memorial,Indo-Islamic,Basalt,Syncretic
+277,Temple,437,Unknown,Unknown,West Bengal,Shantiniketan,No,Administrative,Rock-cut,Granite,Christian
+278,Temple,1762,Gond,Rani Durgavati,Andhra Pradesh,Amaravati,No,Residential,Rock-cut,Sandstone,Christian
+279,Fort,1603,Hoysala,Vishnuvardhana,Bihar,Gaya,No,Commemorative,Nagara,Sandstone,Hindu
+280,Rock-cut Shrine,985,Chola,Raja Raja Chola,West Bengal,Darjeeling,No,Residential,Dravidian,Granite,Islam
+281,Mosque,641,Gond,Rani Durgavati,Rajasthan,Jaipur,No,Residential,Mixed,Limestone,Christian
+282,Watchtower,532,Unknown,Unknown,Karnataka,Mysore,No,Residential,Dravidian,Basalt,Islam
+283,Palace,1474,Mughal,Aurangzeb,Karnataka,Halebidu,No,Commemorative,Indo-Islamic,Basalt,Buddhist
+284,Fort,482,Vijayanagara,Harihara I,Odisha,Puri,No,Commemorative,Buddhist,Marble,Hindu
+285,Pillar/Stambha,1769,Chola,Raja Raja Chola,Gujarat,Vadodara,No,Residential,Kalinga,Sandstone,Hindu
+286,Tomb/Mausoleum,1751,Chalukya,Pulakeshin II,Madhya Pradesh,Ujjain,No,Commemorative,Kalinga-Nagara,Basalt,Buddhist
+287,Monastery,1294,Vijayanagara,Harihara I,West Bengal,Darjeeling,No,Memorial,Kalinga,Marble,Syncretic
+288,Cave,1219,Hoysala,Vishnuvardhana,Madhya Pradesh,Bhopal,No,Administrative,Rock-cut,Basalt,Hindu
+289,Reservoir/Tank,1328,Vijayanagara,Krishna Deva Raya,Kerala,Kochi,No,Commemorative,Maru-Gurjara,Basalt,Jain
+290,Reservoir/Tank,1125,Maratha,Shivaji Maharaj,Karnataka,Belur,No,Military,Kalinga,Sandstone,Syncretic
+291,Fort,1107,Gond,Rani Durgavati,Delhi,Old Delhi,No,Administrative,Indo-Saracenic,Limestone,Christian
+292,Stepwell,1205,Chalukya,Pulakeshin II,Telangana,Bhuvanagiri,No,Memorial,Mixed,Brick,Christian
+293,Reservoir/Tank,1471,Mughal,Aurangzeb,Karnataka,Bengaluru,No,Memorial,Dravidian,Limestone,Christian
+294,Tomb/Mausoleum,806,Chola,Raja Raja Chola,Andhra Pradesh,Amaravati,No,Memorial,Maru-Gurjara,Marble,Christian
+295,Palace,1001,Gond,Rani Durgavati,Madhya Pradesh,Sanchi,No,Administrative,Kalinga-Nagara,Mixed,Syncretic
+296,Fort,1272,Chola,Raja Raja Chola,Tamil Nadu,Tiruchirappalli,No,Commemorative,Indo-Islamic,Granite,Islam
+297,Watchtower,1044,Chola,Raja Raja Chola,Delhi,New Delhi,No,Religious,Buddhist,Basalt,Islam
+298,Temple,1412,Mughal,Aurangzeb,Delhi,New Delhi,No,Military,Indo-Islamic,Mixed,Syncretic
+299,Cave,1774,Mughal,Akbar,Kerala,Kochi,No,Military,Indo-Saracenic,Mixed,Syncretic
+300,Stepwell,402,Gond,Rani Durgavati,Bihar,Gaya,No,Religious,Indo-Saracenic,Limestone,Jain
+301,Tomb/Mausoleum,1365,Chola,Rani Rajya Chola,Gujarat,Junagadh,No,Commemorative,Mixed,Granite,Buddhist
+302,Stupa,1802,Pallava,Narendra Pallava,Odisha,Bhubaneswar,No,Residential,Rock-cut,Brick,Christian
+303,Cave,1035,Chola,Rani Rajya Chola,Madhya Pradesh,Khajuraho,No,Administrative,Kalinga,Sandstone,Christian
+304,Fort,860,Vijayanagara,Krishnadevaraya,Maharashtra,Aurangabad,No,Residential,Indo-Islamic,Marble,Christian
+305,Stepwell,1050,Mughal,Aurangzeb,Maharashtra,Panhala,No,Military,Indo-Islamic,Limestone,Christian
+306,Cave,1355,Unknown,Unknown,Maharashtra,Pune,No,Military,Dravidian,Marble,Jain
+307,Watchtower,1719,Mughal,Aurangzeb,Andhra Pradesh,Guntur,No,Residential,Indo-Saracenic,Basalt,Syncretic
+308,Temple,1526,Maratha,Shivaji Maharaj,Karnataka,Halebidu,No,Administrative,Kalinga,Granite,Buddhist
+309,Pillar/Stambha,1808,Pallava,Narendra Pallava,Delhi,Old Delhi,No,Religious,Nagara,Limestone,Christian
+310,Watchtower,1343,Hoysala,Vishnuvardhana,Kerala,Kollam,No,Military,Buddhist,Brick,Christian
+311,Stupa,1334,Gond,Rani Durgavati,Karnataka,Bengaluru,No,Residential,Rock-cut,Marble,Hindu
+312,Palace,1660,Unknown,Unknown,Karnataka,Bengaluru,No,Residential,Kalinga-Nagara,Brick,Syncretic
+313,Gateway/Arch,831,Chola,Rani Rajya Chola,Maharashtra,Pune,No,Administrative,Mixed,Marble,Islam
+314,Stupa,1827,Mughal,Aurangzeb,Uttar Pradesh,Lucknow,No,Residential,Nagara,Mixed,Buddhist
+315,Rock-cut Shrine,1556,Vijayanagara,Krishnadevaraya,Rajasthan,Udaipur,No,Memorial,Rock-cut,Brick,Buddhist
+316,Reservoir/Tank,1013,Vijayanagara,Harihara I,Maharashtra,Panhala,No,Religious,Nagara,Basalt,Syncretic
+317,Rock-cut Shrine,1678,Gond,Rani Durgavati,West Bengal,Shantiniketan,No,Religious,Rock-cut,Basalt,Christian
+318,Fort,1770,Mughal,Aurangzeb,Telangana,Bhuvanagiri,No,Administrative,Rock-cut,Brick,Hindu
+319,Monastery,1225,Maratha,Shivaji Maharaj,Andhra Pradesh,Vijayawada,No,Military,Mixed,Marble,Christian
+320,Reservoir/Tank,1348,Chola,Raja Raja Chola,Odisha,Cuttack,No,Religious,Buddhist,Brick,Hindu
+321,Monastery,638,Mughal,Akbar,Maharashtra,Nagpur,No,Commemorative,Indo-Islamic,Brick,Syncretic
+322,Reservoir/Tank,843,Chalukya,Pulakeshin II,Rajasthan,Jaipur,No,Residential,Indo-Islamic,Brick,Hindu
+323,Stepwell,1398,Maurya,Ashoka,West Bengal,Darjeeling,No,Military,Buddhist,Sandstone,Hindu
+324,Temple,551,Unknown,Unknown,Kerala,Thrissur,No,Military,Indo-Saracenic,Granite,Syncretic
+325,Fort,1405,Chola,Raja Raja Chola,Gujarat,Vadodara,No,Military,Rock-cut,Marble,Islam
+326,Reservoir/Tank,1447,Chola,Raja Raja Chola,Telangana,Hyderabad,No,Administrative,Kalinga-Nagara,Limestone,Hindu
+327,Rock-cut Shrine,1184,Vijayanagara,Krishnadevaraya,Odisha,Cuttack,No,Residential,Kalinga-Nagara,Basalt,Syncretic
+328,Mosque,1694,Chalukya,Pulakeshin II,Karnataka,Hampi,No,Military,Rock-cut,Basalt,Buddhist
+329,Watchtower,1592,Hoysala,Vishnuvardhana,Karnataka,Bengaluru,No,Commemorative,Dravidian,Brick,Syncretic
+330,Palace,1603,Mughal,Aurangzeb,Madhya Pradesh,Sanchi,No,Residential,Maru-Gurjara,Granite,Jain
+331,Fort,807,Chalukya,Pulakeshin II,Odisha,Sonepur,No,Administrative,Indo-Islamic,Marble,Jain
+332,Tomb/Mausoleum,1195,Chola,Raja Raja Chola,Kerala,Kochi,No,Religious,Kalinga-Nagara,Granite,Hindu
+333,Tomb/Mausoleum,947,Mughal,Aurangzeb,Tamil Nadu,Thanjavur,No,Residential,Mixed,Brick,Jain
+334,Watchtower,1585,Chola,Raja Raja Chola,Karnataka,Halebidu,No,Military,Nagara,Marble,Christian
+335,Cave,1125,Hoysala,Vishnuvardhana,Maharashtra,Panhala,No,Memorial,Nagara,Mixed,Islam
+336,Temple,1274,Vijayanagara,Harihara I,Telangana,Hyderabad,Yes,Administrative,Buddhist,Granite,Christian
+337,Fort,340,Vijayanagara,Krishna Deva Raya,Bihar,Nalanda,No,Commemorative,Indo-Islamic,Granite,Jain
+338,Mosque,1184,Hoysala,Vishnuvardhana,Delhi,Old Delhi,No,Religious,Kalinga,Mixed,Syncretic
+339,Tomb/Mausoleum,1069,Chola,Raja Raja Chola,Tamil Nadu,Kanchipuram,No,Religious,Kalinga-Nagara,Marble,Syncretic
+340,Temple,1091,Vijayanagara,Krishnadevaraya,Kerala,Kollam,No,Religious,Indo-Islamic,Marble,Islam
+341,Palace,1303,Maurya,Ashoka,Bihar,Patna,No,Religious,Dravidian,Mixed,Buddhist
+342,Mosque,1337,Pallava,Narendra Pallava,Andhra Pradesh,Vijayawada,No,Commemorative,Indo-Saracenic,Mixed,Buddhist
+343,Stupa,1886,Chalukya,Pulakeshin II,West Bengal,Shantiniketan,No,Religious,Mixed,Granite,Syncretic
+344,Stepwell,676,Unknown,Unknown,Delhi,New Delhi,No,Religious,Kalinga,Marble,Islam
+345,Palace,1202,Maratha,Shivaji Maharaj,Tamil Nadu,Kanchipuram,No,Residential,Kalinga-Nagara,Brick,Buddhist
+346,Rock-cut Shrine,1552,Vijayanagara,Krishnadevaraya,Odisha,Puri,No,Military,Indo-Saracenic,Granite,Hindu
+347,Cave,585,Unknown,Unknown,Bihar,Patna,No,Military,Kalinga,Brick,Hindu
+348,Monastery,1446,Vijayanagara,Krishna Deva Raya,Gujarat,Vadodara,No,Military,Nagara,Marble,Hindu
+349,Rock-cut Shrine,1770,Vijayanagara,Krishna Deva Raya,Kerala,Thrissur,No,Administrative,Kalinga-Nagara,Granite,Hindu
+350,Fort,1364,Vijayanagara,Harihara I,Telangana,Warangal,No,Commemorative,Indo-Islamic,Brick,Buddhist
+351,Rock-cut Shrine,1635,Chalukya,Pulakeshin II,Uttar Pradesh,Jhansi,No,Religious,Kalinga,Basalt,Buddhist
+352,Fort,368,Gond,Rani Durgavati,Maharashtra,Panhala,No,Religious,Rock-cut,Basalt,Jain
+353,Monastery,936,Unknown,Unknown,Delhi,New Delhi,No,Memorial,Nagara,Granite,Buddhist
+354,Palace,1636,Vijayanagara,Krishnadevaraya,West Bengal,Kolkata,No,Residential,Maru-Gurjara,Granite,Islam
+355,Stupa,1479,Maurya,Ashoka,Bihar,Bodh Gaya,No,Memorial,Buddhist,Basalt,Christian
+356,Fort,1444,Chola,Raja Raja Chola,Karnataka,Belur,No,Military,Dravidian,Granite,Buddhist
+357,Reservoir/Tank,1387,Chola,Rani Rajya Chola,Andhra Pradesh,Amaravati,No,Religious,Kalinga,Limestone,Hindu
+358,Tomb/Mausoleum,539,Chola,Raja Raja Chola,Gujarat,Vadodara,No,Military,Buddhist,Granite,Hindu
+359,Monastery,636,Vijayanagara,Krishnadevaraya,Andhra Pradesh,Nellore,No,Commemorative,Maru-Gurjara,Marble,Buddhist
+360,Pillar/Stambha,1552,Mughal,Aurangzeb,Maharashtra,Mumbai,No,Administrative,Buddhist,Marble,Jain
+361,Stepwell,404,Mughal,Aurangzeb,Karnataka,Mysore,No,Memorial,Mixed,Mixed,Buddhist
+362,Stepwell,1668,Gond,Rani Durgavati,Kerala,Thiruvananthapuram,No,Administrative,Buddhist,Limestone,Islam
+363,Mosque,424,Maurya,Ashoka,Andhra Pradesh,Amaravati,No,Residential,Kalinga,Mixed,Hindu
+364,Mosque,446,Maratha,Shivaji Maharaj,Delhi,New Delhi,No,Administrative,Dravidian,Limestone,Buddhist
+365,Cave,1478,Vijayanagara,Krishnadevaraya,Delhi,Old Delhi,No,Memorial,Kalinga-Nagara,Sandstone,Islam
+366,Rock-cut Shrine,1882,Chola,Rani Rajya Chola,Madhya Pradesh,Khajuraho,No,Residential,Kalinga-Nagara,Sandstone,Buddhist
+367,Temple,438,Chola,Rani Rajya Chola,Maharashtra,Nagpur,Yes,Residential,Dravidian,Sandstone,Christian
+368,Tomb/Mausoleum,381,Hoysala,Vishnuvardhana,Madhya Pradesh,Bhopal,No,Religious,Rock-cut,Mixed,Hindu
+369,Tomb/Mausoleum,738,Unknown,Unknown,West Bengal,Darjeeling,No,Memorial,Nagara,Marble,Islam
+370,Fort,966,Vijayanagara,Krishnadevaraya,Andhra Pradesh,Guntur,No,Residential,Indo-Saracenic,Sandstone,Syncretic
+371,Rock-cut Shrine,1666,Mughal,Akbar,Maharashtra,Panhala,No,Residential,Kalinga-Nagara,Brick,Buddhist
+372,Mosque,201,Vijayanagara,Krishna Deva Raya,West Bengal,Shantiniketan,No,Religious,Indo-Saracenic,Limestone,Christian
+373,Palace,1407,Gond,Rani Durgavati,Uttar Pradesh,Mathura,No,Religious,Rock-cut,Sandstone,Syncretic
+374,Reservoir/Tank,1391,Unknown,Unknown,Uttar Pradesh,Varanasi,No,Religious,Rock-cut,Brick,Jain
+375,Cave,856,Vijayanagara,Krishna Deva Raya,Gujarat,Ahmedabad,No,Residential,Dravidian,Granite,Jain
+376,Monastery,1660,Pallava,Narendra Pallava,Maharashtra,Nagpur,No,Administrative,Nagara,Basalt,Jain
+377,Mosque,1210,Unknown,Unknown,Bihar,Nalanda,No,Commemorative,Kalinga,Granite,Hindu
+378,Cave,584,Vijayanagara,Krishnadevaraya,Karnataka,Hampi,No,Religious,Nagara,Brick,Christian
+379,Rock-cut Shrine,368,Chola,Rani Rajya Chola,Madhya Pradesh,Ujjain,No,Religious,Indo-Islamic,Basalt,Hindu
+380,Rock-cut Shrine,1854,Maratha,Shivaji Maharaj,Gujarat,Vadodara,No,Military,Kalinga,Brick,Islam
+381,Watchtower,1458,Maurya,Ashoka,Andhra Pradesh,Guntur,No,Religious,Dravidian,Marble,Jain
+382,Palace,411,Vijayanagara,Krishnadevaraya,Bihar,Gaya,No,Residential,Kalinga,Brick,Hindu
+383,Monastery,1139,Maratha,Shivaji Maharaj,Rajasthan,Chittorgarh,No,Military,Mixed,Granite,Jain
+384,Mosque,935,Gond,Rani Durgavati,Andhra Pradesh,Amaravati,No,Commemorative,Kalinga,Basalt,Buddhist
+385,Fort,1855,Vijayanagara,Harihara I,Maharashtra,Mumbai,Yes,Administrative,Kalinga-Nagara,Mixed,Buddhist
+386,Stepwell,1787,Chola,Rani Rajya Chola,Andhra Pradesh,Guntur,No,Religious,Buddhist,Sandstone,Islam
+387,Temple,1262,Pallava,Narendra Pallava,Telangana,Bhuvanagiri,No,Administrative,Kalinga-Nagara,Mixed,Syncretic
+388,Mosque,1472,Mughal,Akbar,Delhi,Old Delhi,No,Religious,Maru-Gurjara,Mixed,Buddhist
+389,Palace,1452,Unknown,Unknown,Bihar,Gaya,No,Memorial,Kalinga,Limestone,Islam
+390,Stepwell,1866,Chalukya,Pulakeshin II,Karnataka,Hampi,No,Residential,Kalinga,Mixed,Christian
+391,Pillar/Stambha,1015,Chola,Raja Raja Chola,Tamil Nadu,Chidambaram,No,Administrative,Indo-Islamic,Basalt,Buddhist
+392,Fort,1404,Hoysala,Vishnuvardhana,Delhi,New Delhi,No,Residential,Mixed,Marble,Islam
+393,Pillar/Stambha,1339,Vijayanagara,Krishnadevaraya,Bihar,Gaya,No,Administrative,Indo-Saracenic,Marble,Buddhist
+394,Temple,1251,Chalukya,Pulakeshin II,West Bengal,Murshidabad,No,Memorial,Maru-Gurjara,Brick,Hindu
+395,Temple,1207,Maratha,Shivaji Maharaj,Rajasthan,Jodhpur,No,Memorial,Kalinga,Marble,Jain
+396,Mosque,1181,Gond,Rani Durgavati,Telangana,Hyderabad,No,Memorial,Rock-cut,Mixed,Islam
+397,Palace,1268,Unknown,Unknown,Bihar,Patna,No,Commemorative,Buddhist,Basalt,Christian
+398,Fort,1060,Vijayanagara,Harihara I,Kerala,Kochi,No,Religious,Mixed,Sandstone,Christian
+399,Gateway/Arch,233,Gond,Rani Durgavati,Telangana,Hyderabad,No,Military,Rock-cut,Granite,Syncretic
+400,Watchtower,1273,Chola,Raja Raja Chola,Telangana,Warangal,No,Commemorative,Dravidian,Brick,Buddhist
+401,Gateway/Arch,1083,Chalukya,Pulakeshin II,Odisha,Puri,No,Memorial,Indo-Islamic,Marble,Islam
+402,Temple,884,Unknown,Unknown,Karnataka,Mysore,No,Memorial,Maru-Gurjara,Limestone,Buddhist
+403,Reservoir/Tank,811,Unknown,Unknown,Gujarat,Junagadh,No,Military,Dravidian,Mixed,Jain
+404,Palace,1213,Maratha,Shivaji Maharaj,Madhya Pradesh,Khajuraho,No,Residential,Kalinga,Brick,Jain
+405,Palace,1147,Pallava,Narendra Pallava,Odisha,Cuttack,No,Administrative,Kalinga-Nagara,Mixed,Jain
+406,Watchtower,1590,Maratha,Shivaji Maharaj,Kerala,Kollam,No,Religious,Nagara,Brick,Jain
+407,Gateway/Arch,1136,Vijayanagara,Krishna Deva Raya,Rajasthan,Jodhpur,No,Military,Kalinga,Brick,Buddhist
+408,Tomb/Mausoleum,1714,Mughal,Aurangzeb,Gujarat,Ahmedabad,No,Religious,Indo-Islamic,Marble,Syncretic
+409,Stepwell,1178,Maurya,Ashoka,Rajasthan,Jodhpur,No,Commemorative,Kalinga-Nagara,Limestone,Buddhist
+410,Reservoir/Tank,1668,Pallava,Narendra Pallava,Gujarat,Dwarka,No,Administrative,Indo-Islamic,Marble,Syncretic
+411,Mosque,1873,Hoysala,Vishnuvardhana,Karnataka,Belur,No,Religious,Rock-cut,Sandstone,Syncretic
+412,Stepwell,1640,Chalukya,Pulakeshin II,Gujarat,Junagadh,No,Residential,Kalinga-Nagara,Marble,Islam
+413,Gateway/Arch,1895,Chola,Rani Rajya Chola,Odisha,Bhubaneswar,No,Administrative,Buddhist,Granite,Buddhist
+414,Watchtower,828,Unknown,Unknown,Bihar,Gaya,No,Military,Indo-Islamic,Mixed,Buddhist
+415,Mosque,1167,Vijayanagara,Krishnadevaraya,Madhya Pradesh,Ujjain,No,Commemorative,Nagara,Mixed,Jain
+416,Reservoir/Tank,662,Maratha,Shivaji Maharaj,Maharashtra,Aurangabad,No,Military,Indo-Islamic,Sandstone,Christian
+417,Mosque,1740,Vijayanagara,Harihara I,Delhi,New Delhi,Yes,Religious,Buddhist,Basalt,Jain
+418,Temple,1844,Mughal,Akbar,Gujarat,Junagadh,No,Memorial,Dravidian,Granite,Syncretic
+419,Stupa,592,Pallava,Narendra Pallava,West Bengal,Shantiniketan,No,Religious,Kalinga,Limestone,Buddhist
+420,Monastery,1837,Chalukya,Pulakeshin II,Rajasthan,Jodhpur,No,Residential,Indo-Islamic,Basalt,Islam
+421,Tomb/Mausoleum,917,Mughal,Akbar,Gujarat,Bhuj,Yes,Memorial,Indo-Islamic,Brick,Buddhist
+422,Fort,1134,Hoysala,Vishnuvardhana,Kerala,Kochi,No,Commemorative,Indo-Saracenic,Granite,Syncretic
+423,Pillar/Stambha,1411,Mughal,Aurangzeb,Madhya Pradesh,Khajuraho,No,Memorial,Dravidian,Mixed,Hindu
+424,Fort,1043,Vijayanagara,Krishna Deva Raya,Odisha,Konark,No,Memorial,Maru-Gurjara,Sandstone,Syncretic
+425,Reservoir/Tank,732,Maratha,Shivaji Maharaj,Rajasthan,Chittorgarh,No,Military,Kalinga-Nagara,Limestone,Syncretic
+426,Rock-cut Shrine,1590,Chola,Raja Raja Chola,Karnataka,Halebidu,No,Military,Nagara,Mixed,Jain
+427,Gateway/Arch,904,Chalukya,Pulakeshin II,Delhi,Old Delhi,Yes,Military,Indo-Saracenic,Brick,Islam
+428,Rock-cut Shrine,1639,Mughal,Akbar,Odisha,Puri,No,Religious,Dravidian,Granite,Syncretic
+429,Reservoir/Tank,1287,Chola,Raja Raja Chola,Telangana,Bhuvanagiri,No,Memorial,Mixed,Mixed,Hindu
+430,Monastery,1604,Maratha,Shivaji Maharaj,Rajasthan,Udaipur,No,Military,Dravidian,Basalt,Hindu
+431,Cave,1621,Vijayanagara,Harihara I,Telangana,Warangal,Yes,Religious,Nagara,Brick,Hindu
+432,Cave,1025,Chola,Rani Rajya Chola,Maharashtra,Pune,No,Commemorative,Nagara,Marble,Islam
+433,Monastery,998,Vijayanagara,Krishna Deva Raya,Andhra Pradesh,Nellore,No,Memorial,Buddhist,Mixed,Jain
+434,Mosque,1361,Unknown,Unknown,Maharashtra,Mumbai,No,Administrative,Nagara,Sandstone,Jain
+435,Mosque,1668,Chola,Rani Rajya Chola,Madhya Pradesh,Ujjain,No,Residential,Indo-Islamic,Granite,Jain
+436,Temple,521,Maurya,Ashoka,Andhra Pradesh,Nellore,No,Administrative,Mixed,Brick,Syncretic
+437,Watchtower,1159,Chola,Rani Rajya Chola,Gujarat,Junagadh,No,Memorial,Indo-Saracenic,Granite,Syncretic
+438,Mosque,1872,Chola,Rani Rajya Chola,Uttar Pradesh,Jhansi,No,Military,Dravidian,Granite,Syncretic
+439,Gateway/Arch,703,Chalukya,Pulakeshin II,Odisha,Konark,No,Religious,Rock-cut,Sandstone,Islam
+440,Stepwell,1381,Gond,Rani Durgavati,Kerala,Thrissur,No,Religious,Kalinga-Nagara,Basalt,Jain
+441,Fort,1319,Chola,Raja Raja Chola,Odisha,Cuttack,No,Administrative,Indo-Saracenic,Basalt,Hindu
+442,Tomb/Mausoleum,1612,Pallava,Narendra Pallava,Telangana,Hyderabad,No,Memorial,Maru-Gurjara,Limestone,Syncretic
+443,Gateway/Arch,428,Unknown,Unknown,Uttar Pradesh,Lucknow,No,Administrative,Rock-cut,Basalt,Christian
+444,Rock-cut Shrine,850,Hoysala,Vishnuvardhana,West Bengal,Shantiniketan,No,Commemorative,Maru-Gurjara,Brick,Hindu
+445,Watchtower,1160,Chola,Raja Raja Chola,Bihar,Bodh Gaya,No,Military,Indo-Islamic,Granite,Jain
+446,Fort,901,Mughal,Akbar,West Bengal,Murshidabad,No,Residential,Indo-Saracenic,Granite,Buddhist
+447,Fort,1348,Mughal,Aurangzeb,Gujarat,Junagadh,No,Residential,Kalinga-Nagara,Mixed,Hindu
+448,Mosque,1305,Pallava,Narendra Pallava,Madhya Pradesh,Sanchi,No,Residential,Dravidian,Brick,Christian
+449,Tomb/Mausoleum,1482,Vijayanagara,Krishna Deva Raya,Odisha,Sonepur,No,Military,Indo-Islamic,Limestone,Syncretic
+450,Watchtower,1729,Chola,Rani Rajya Chola,Bihar,Bodh Gaya,No,Residential,Maru-Gurjara,Brick,Islam
+451,Tomb/Mausoleum,622,Chola,Rani Rajya Chola,Rajasthan,Chittorgarh,No,Memorial,Mixed,Brick,Islam
+452,Reservoir/Tank,908,Chola,Rani Rajya Chola,Uttar Pradesh,Mathura,No,Commemorative,Kalinga,Brick,Syncretic
+453,Watchtower,1127,Chalukya,Pulakeshin II,Maharashtra,Pune,No,Administrative,Nagara,Brick,Islam
+454,Reservoir/Tank,1847,Maratha,Shivaji Maharaj,Madhya Pradesh,Ujjain,No,Administrative,Indo-Saracenic,Mixed,Hindu
+455,Temple,1505,Maratha,Shivaji Maharaj,Andhra Pradesh,Vijayawada,No,Memorial,Indo-Islamic,Mixed,Islam
+456,Rock-cut Shrine,1509,Hoysala,Vishnuvardhana,Telangana,Hyderabad,No,Residential,Dravidian,Limestone,Islam
+457,Rock-cut Shrine,1530,Vijayanagara,Krishna Deva Raya,Telangana,Bhuvanagiri,No,Military,Mixed,Brick,Jain
+458,Rock-cut Shrine,1691,Vijayanagara,Harihara I,Delhi,Old Delhi,Yes,Religious,Rock-cut,Basalt,Christian
+459,Pillar/Stambha,1754,Unknown,Unknown,Rajasthan,Udaipur,No,Administrative,Rock-cut,Sandstone,Christian
+460,Stupa,1150,Chola,Raja Raja Chola,Gujarat,Bhuj,No,Administrative,Indo-Islamic,Sandstone,Syncretic
+461,Stupa,1434,Vijayanagara,Krishnadevaraya,Tamil Nadu,Tiruchirappalli,No,Commemorative,Kalinga,Limestone,Hindu
+462,Mosque,1353,Hoysala,Vishnuvardhana,Maharashtra,Mumbai,No,Commemorative,Kalinga-Nagara,Brick,Syncretic
+463,Cave,525,Pallava,Narendra Pallava,Madhya Pradesh,Sanchi,No,Religious,Indo-Islamic,Sandstone,Christian
+464,Watchtower,848,Chalukya,Pulakeshin II,Maharashtra,Nagpur,No,Commemorative,Maru-Gurjara,Sandstone,Syncretic
+465,Tomb/Mausoleum,1787,Pallava,Narendra Pallava,Rajasthan,Udaipur,No,Memorial,Dravidian,Mixed,Hindu
+466,Pillar/Stambha,821,Mughal,Aurangzeb,Gujarat,Dwarka,No,Residential,Indo-Saracenic,Marble,Hindu
+467,Temple,1684,Pallava,Narendra Pallava,West Bengal,Shantiniketan,Yes,Residential,Mixed,Mixed,Jain
+468,Cave,1286,Chola,Raja Raja Chola,Bihar,Nalanda,No,Religious,Mixed,Sandstone,Christian
+469,Gateway/Arch,1407,Mughal,Akbar,Gujarat,Bhuj,No,Religious,Indo-Saracenic,Limestone,Syncretic
+470,Monastery,1339,Chola,Raja Raja Chola,Maharashtra,Mumbai,No,Commemorative,Dravidian,Granite,Buddhist
+471,Stupa,1031,Mughal,Aurangzeb,Madhya Pradesh,Bhopal,No,Religious,Indo-Saracenic,Basalt,Islam
+472,Temple,1365,Hoysala,Vishnuvardhana,Karnataka,Halebidu,No,Memorial,Kalinga-Nagara,Brick,Hindu
+473,Fort,1152,Maratha,Shivaji Maharaj,Uttar Pradesh,Mathura,No,Residential,Nagara,Limestone,Islam
+474,Temple,1074,Mughal,Akbar,Telangana,Bhuvanagiri,No,Commemorative,Indo-Saracenic,Sandstone,Christian
+475,Reservoir/Tank,1683,Maurya,Ashoka,Maharashtra,Aurangabad,Yes,Religious,Mixed,Limestone,Buddhist
+476,Stepwell,1285,Chola,Raja Raja Chola,Madhya Pradesh,Sanchi,No,Memorial,Maru-Gurjara,Marble,Syncretic
+477,Stepwell,1825,Vijayanagara,Krishnadevaraya,Uttar Pradesh,Varanasi,No,Administrative,Indo-Islamic,Sandstone,Buddhist
+478,Mosque,1881,Unknown,Unknown,Gujarat,Ahmedabad,No,Memorial,Mixed,Granite,Jain
+479,Stupa,794,Gond,Rani Durgavati,Rajasthan,Jaipur,No,Memorial,Rock-cut,Marble,Buddhist
+480,Pillar/Stambha,398,Chalukya,Pulakeshin II,Karnataka,Mysore,No,Administrative,Buddhist,Basalt,Islam
+481,Pillar/Stambha,1624,Vijayanagara,Harihara I,West Bengal,Darjeeling,No,Military,Dravidian,Sandstone,Islam
+482,Stupa,1438,Mughal,Aurangzeb,West Bengal,Murshidabad,No,Residential,Rock-cut,Brick,Jain
+483,Monastery,1480,Mughal,Aurangzeb,Delhi,Old Delhi,No,Military,Nagara,Limestone,Islam
+484,Rock-cut Shrine,1379,Vijayanagara,Krishna Deva Raya,Gujarat,Junagadh,Yes,Memorial,Dravidian,Granite,Christian
+485,Stepwell,1518,Maurya,Ashoka,Madhya Pradesh,Sanchi,No,Administrative,Kalinga,Limestone,Christian
+486,Cave,1257,Hoysala,Vishnuvardhana,Delhi,New Delhi,No,Residential,Kalinga,Limestone,Buddhist
+487,Cave,1140,Mughal,Akbar,Karnataka,Belur,No,Military,Kalinga-Nagara,Mixed,Syncretic
+488,Mosque,779,Mughal,Aurangzeb,Maharashtra,Nagpur,No,Memorial,Indo-Islamic,Mixed,Syncretic
+489,Palace,1538,Chola,Raja Raja Chola,Uttar Pradesh,Agra,No,Religious,Rock-cut,Marble,Buddhist
+490,Stepwell,1033,Maurya,Ashoka,Kerala,Kollam,No,Memorial,Rock-cut,Granite,Hindu
+491,Gateway/Arch,1893,Pallava,Narendra Pallava,Bihar,Bodh Gaya,No,Memorial,Indo-Islamic,Limestone,Jain
+492,Watchtower,1299,Mughal,Akbar,Madhya Pradesh,Khajuraho,No,Commemorative,Indo-Saracenic,Limestone,Islam
+493,Temple,872,Gond,Rani Durgavati,Odisha,Sonepur,No,Administrative,Maru-Gurjara,Sandstone,Hindu
+494,Mosque,321,Mughal,Aurangzeb,Gujarat,Bhuj,No,Memorial,Indo-Saracenic,Sandstone,Islam
+495,Monastery,883,Mughal,Aurangzeb,Bihar,Gaya,Yes,Military,Indo-Saracenic,Mixed,Hindu
+496,Mosque,724,Maurya,Ashoka,Madhya Pradesh,Sanchi,No,Military,Indo-Islamic,Limestone,Hindu
+497,Stepwell,1878,Mughal,Aurangzeb,Maharashtra,Panhala,No,Military,Kalinga,Granite,Hindu
+498,Mosque,1011,Chola,Rani Rajya Chola,Odisha,Konark,No,Administrative,Kalinga-Nagara,Sandstone,Buddhist
+499,Rock-cut Shrine,1765,Chola,Rani Rajya Chola,Rajasthan,Udaipur,No,Residential,Nagara,Limestone,Buddhist
+500,Palace,1266,Pallava,Narendra Pallava,Karnataka,Hampi,No,Administrative,Indo-Saracenic,Brick,Buddhist
+501,Pillar/Stambha,744,Pallava,Narendra Pallava,Odisha,Sonepur,No,Residential,Nagara,Mixed,Hindu
+502,Gateway/Arch,641,Pallava,Narendra Pallava,Madhya Pradesh,Sanchi,No,Memorial,Rock-cut,Basalt,Hindu
+503,Tomb/Mausoleum,1659,Chola,Rani Rajya Chola,Gujarat,Vadodara,No,Residential,Kalinga-Nagara,Mixed,Hindu
+504,Gateway/Arch,756,Vijayanagara,Harihara I,Odisha,Puri,No,Memorial,Maru-Gurjara,Marble,Hindu
+505,Watchtower,207,Vijayanagara,Harihara I,Tamil Nadu,Chidambaram,No,Commemorative,Maru-Gurjara,Brick,Syncretic
+506,Stepwell,1560,Maratha,Shivaji Maharaj,Karnataka,Bengaluru,No,Administrative,Mixed,Mixed,Jain
+507,Tomb/Mausoleum,1083,Hoysala,Vishnuvardhana,Rajasthan,Chittorgarh,No,Commemorative,Buddhist,Limestone,Buddhist
+508,Stupa,1708,Vijayanagara,Krishna Deva Raya,Odisha,Cuttack,No,Military,Nagara,Sandstone,Syncretic
+509,Fort,1006,Hoysala,Vishnuvardhana,West Bengal,Darjeeling,No,Memorial,Mixed,Marble,Christian
+510,Stepwell,1306,Hoysala,Vishnuvardhana,Tamil Nadu,Madurai,No,Administrative,Indo-Islamic,Granite,Jain
+511,Palace,1112,Maurya,Ashoka,Karnataka,Mysore,No,Administrative,Indo-Saracenic,Brick,Jain
+512,Temple,1480,Mughal,Aurangzeb,Rajasthan,Bikaner,No,Military,Buddhist,Basalt,Hindu
+513,Palace,722,Pallava,Narendra Pallava,Delhi,Old Delhi,No,Military,Maru-Gurjara,Brick,Christian
+514,Reservoir/Tank,361,Chola,Raja Raja Chola,Uttar Pradesh,Varanasi,No,Memorial,Indo-Saracenic,Marble,Islam
+515,Watchtower,270,Chola,Raja Raja Chola,Madhya Pradesh,Bhopal,No,Administrative,Kalinga,Limestone,Syncretic
+516,Gateway/Arch,1111,Mughal,Akbar,Uttar Pradesh,Lucknow,No,Religious,Indo-Saracenic,Basalt,Christian
+517,Fort,1816,Maratha,Shivaji Maharaj,Andhra Pradesh,Guntur,No,Commemorative,Nagara,Marble,Christian
+518,Stupa,1687,Chola,Rani Rajya Chola,Telangana,Bhuvanagiri,No,Residential,Maru-Gurjara,Basalt,Islam
+519,Monastery,269,Vijayanagara,Harihara I,Madhya Pradesh,Khajuraho,No,Memorial,Maru-Gurjara,Brick,Syncretic
+520,Cave,805,Vijayanagara,Krishna Deva Raya,Uttar Pradesh,Jhansi,No,Commemorative,Kalinga,Mixed,Buddhist
+521,Fort,1483,Gond,Rani Durgavati,Bihar,Bodh Gaya,No,Administrative,Rock-cut,Marble,Buddhist
+522,Monastery,1541,Vijayanagara,Krishna Deva Raya,West Bengal,Darjeeling,No,Military,Kalinga,Sandstone,Buddhist
+523,Cave,309,Chola,Raja Raja Chola,Gujarat,Dwarka,No,Religious,Buddhist,Granite,Christian
+524,Gateway/Arch,1118,Chalukya,Pulakeshin II,Kerala,Thiruvananthapuram,No,Residential,Kalinga-Nagara,Basalt,Islam
+525,Stepwell,1096,Vijayanagara,Krishnadevaraya,Delhi,Old Delhi,No,Residential,Mixed,Granite,Jain
+526,Cave,1152,Hoysala,Vishnuvardhana,Tamil Nadu,Chidambaram,No,Memorial,Buddhist,Sandstone,Hindu
+527,Temple,1689,Chola,Rani Rajya Chola,Uttar Pradesh,Agra,No,Administrative,Rock-cut,Granite,Islam
+528,Stupa,1042,Chola,Rani Rajya Chola,Maharashtra,Panhala,No,Residential,Rock-cut,Marble,Buddhist
+529,Cave,1587,Gond,Rani Durgavati,Andhra Pradesh,Amaravati,No,Administrative,Kalinga-Nagara,Sandstone,Buddhist
+530,Rock-cut Shrine,921,Pallava,Narendra Pallava,Telangana,Hyderabad,No,Military,Indo-Saracenic,Basalt,Buddhist
+531,Monastery,1481,Vijayanagara,Harihara I,West Bengal,Darjeeling,No,Administrative,Indo-Islamic,Basalt,Syncretic
+532,Stupa,1240,Chola,Rani Rajya Chola,Uttar Pradesh,Jhansi,No,Memorial,Indo-Saracenic,Granite,Hindu
+533,Monastery,1399,Gond,Rani Durgavati,Gujarat,Junagadh,No,Commemorative,Rock-cut,Brick,Islam
+534,Cave,324,Chalukya,Pulakeshin II,Kerala,Kollam,No,Administrative,Kalinga-Nagara,Mixed,Buddhist
+535,Tomb/Mausoleum,967,Mughal,Aurangzeb,Bihar,Nalanda,No,Residential,Buddhist,Limestone,Syncretic
+536,Stupa,1290,Vijayanagara,Krishnadevaraya,Andhra Pradesh,Guntur,No,Commemorative,Indo-Islamic,Mixed,Syncretic
+537,Stepwell,1374,Chola,Raja Raja Chola,Madhya Pradesh,Sanchi,No,Commemorative,Rock-cut,Sandstone,Buddhist
+538,Pillar/Stambha,1578,Gond,Rani Durgavati,Rajasthan,Jodhpur,No,Administrative,Rock-cut,Mixed,Syncretic
+539,Mosque,812,Vijayanagara,Krishnadevaraya,Odisha,Konark,No,Commemorative,Maru-Gurjara,Brick,Syncretic
+540,Palace,305,Chola,Raja Raja Chola,West Bengal,Kolkata,Yes,Religious,Buddhist,Granite,Christian
+541,Tomb/Mausoleum,1407,Maratha,Shivaji Maharaj,Andhra Pradesh,Guntur,No,Memorial,Indo-Islamic,Limestone,Hindu
+542,Palace,946,Gond,Rani Durgavati,Andhra Pradesh,Amaravati,No,Administrative,Indo-Islamic,Brick,Buddhist
+543,Reservoir/Tank,1269,Chalukya,Pulakeshin II,Tamil Nadu,Thanjavur,No,Administrative,Buddhist,Mixed,Jain
+544,Mosque,1853,Vijayanagara,Krishnadevaraya,Kerala,Thrissur,No,Memorial,Kalinga-Nagara,Limestone,Jain
+545,Watchtower,1847,Maratha,Shivaji Maharaj,Madhya Pradesh,Ujjain,No,Military,Buddhist,Marble,Christian
+546,Cave,880,Maratha,Shivaji Maharaj,Odisha,Cuttack,No,Military,Dravidian,Granite,Christian
+547,Temple,1804,Hoysala,Vishnuvardhana,Odisha,Sonepur,No,Residential,Kalinga,Basalt,Hindu
+548,Tomb/Mausoleum,582,Mughal,Akbar,Madhya Pradesh,Bhopal,No,Residential,Mixed,Basalt,Jain
+549,Gateway/Arch,935,Chola,Raja Raja Chola,West Bengal,Murshidabad,No,Administrative,Maru-Gurjara,Basalt,Christian
+550,Stupa,1845,Hoysala,Vishnuvardhana,Bihar,Bodh Gaya,No,Religious,Indo-Saracenic,Marble,Buddhist
+551,Reservoir/Tank,1032,Maratha,Shivaji Maharaj,Rajasthan,Jaipur,No,Military,Kalinga-Nagara,Brick,Jain
+552,Watchtower,304,Maratha,Shivaji Maharaj,Maharashtra,Mumbai,No,Residential,Indo-Islamic,Marble,Syncretic
+553,Mosque,422,Chalukya,Pulakeshin II,Gujarat,Ahmedabad,No,Commemorative,Kalinga,Basalt,Jain
+554,Cave,349,Maurya,Ashoka,Delhi,New Delhi,No,Administrative,Indo-Saracenic,Marble,Hindu
+555,Gateway/Arch,807,Chola,Raja Raja Chola,Gujarat,Junagadh,No,Residential,Maru-Gurjara,Mixed,Jain
+556,Monastery,1397,Pallava,Narendra Pallava,Tamil Nadu,Madurai,No,Residential,Maru-Gurjara,Brick,Jain
+557,Mosque,1344,Vijayanagara,Krishna Deva Raya,Rajasthan,Jodhpur,No,Commemorative,Mixed,Limestone,Hindu
+558,Cave,1524,Chola,Raja Raja Chola,Rajasthan,Udaipur,No,Religious,Indo-Saracenic,Sandstone,Islam
+559,Fort,925,Maurya,Ashoka,Rajasthan,Bikaner,No,Residential,Kalinga-Nagara,Granite,Syncretic
+560,Tomb/Mausoleum,361,Gond,Rani Durgavati,Maharashtra,Aurangabad,Yes,Memorial,Kalinga-Nagara,Granite,Islam
+561,Rock-cut Shrine,855,Vijayanagara,Krishnadevaraya,Uttar Pradesh,Varanasi,No,Administrative,Maru-Gurjara,Basalt,Islam
+562,Tomb/Mausoleum,1498,Maurya,Ashoka,Delhi,Old Delhi,No,Memorial,Indo-Saracenic,Brick,Islam
+563,Rock-cut Shrine,951,Pallava,Narendra Pallava,Tamil Nadu,Tiruchirappalli,No,Administrative,Buddhist,Brick,Buddhist
+564,Rock-cut Shrine,1245,Unknown,Unknown,Uttar Pradesh,Lucknow,No,Religious,Mixed,Limestone,Buddhist
+565,Gateway/Arch,988,Gond,Rani Durgavati,Odisha,Cuttack,No,Memorial,Mixed,Granite,Jain
+566,Gateway/Arch,1118,Mughal,Akbar,Tamil Nadu,Chidambaram,No,Administrative,Nagara,Marble,Syncretic
+567,Reservoir/Tank,1083,Vijayanagara,Krishnadevaraya,Gujarat,Dwarka,No,Residential,Kalinga,Limestone,Islam
+568,Watchtower,1345,Unknown,Unknown,Karnataka,Hampi,No,Military,Indo-Islamic,Sandstone,Hindu
+569,Temple,1698,Mughal,Aurangzeb,Gujarat,Ahmedabad,No,Memorial,Mixed,Basalt,Christian
+570,Palace,1373,Maurya,Ashoka,Tamil Nadu,Kanchipuram,No,Residential,Buddhist,Sandstone,Hindu
+571,Watchtower,1726,Unknown,Unknown,Tamil Nadu,Kanchipuram,No,Commemorative,Dravidian,Marble,Christian
+572,Gateway/Arch,1284,Mughal,Akbar,West Bengal,Kolkata,No,Memorial,Nagara,Limestone,Hindu
+573,Palace,928,Chola,Rani Rajya Chola,Andhra Pradesh,Vijayawada,No,Memorial,Indo-Islamic,Brick,Christian
+574,Tomb/Mausoleum,1667,Mughal,Aurangzeb,West Bengal,Kolkata,No,Military,Indo-Saracenic,Basalt,Hindu
+575,Watchtower,881,Pallava,Narendra Pallava,Kerala,Thrissur,No,Commemorative,Buddhist,Limestone,Islam
+576,Stepwell,1741,Unknown,Unknown,Uttar Pradesh,Lucknow,No,Military,Rock-cut,Brick,Christian
+577,Tomb/Mausoleum,1561,Chalukya,Pulakeshin II,Gujarat,Vadodara,No,Religious,Buddhist,Basalt,Jain
+578,Temple,1256,Maratha,Shivaji Maharaj,Rajasthan,Bikaner,No,Military,Kalinga,Granite,Buddhist
+579,Watchtower,1093,Chola,Rani Rajya Chola,Tamil Nadu,Kanchipuram,No,Residential,Nagara,Sandstone,Hindu
+580,Cave,1556,Mughal,Akbar,Maharashtra,Aurangabad,No,Administrative,Kalinga,Marble,Hindu
+581,Rock-cut Shrine,1048,Vijayanagara,Krishnadevaraya,Gujarat,Ahmedabad,No,Administrative,Kalinga-Nagara,Basalt,Hindu
+582,Stepwell,257,Hoysala,Vishnuvardhana,Tamil Nadu,Chidambaram,No,Residential,Rock-cut,Marble,Jain
+583,Rock-cut Shrine,1312,Mughal,Aurangzeb,Karnataka,Bengaluru,No,Commemorative,Indo-Saracenic,Mixed,Hindu
+584,Pillar/Stambha,714,Vijayanagara,Krishna Deva Raya,Uttar Pradesh,Mathura,No,Memorial,Indo-Islamic,Sandstone,Hindu
+585,Tomb/Mausoleum,1817,Chola,Raja Raja Chola,Andhra Pradesh,Nellore,No,Residential,Indo-Saracenic,Sandstone,Islam
+586,Monastery,1351,Pallava,Narendra Pallava,Uttar Pradesh,Agra,No,Residential,Kalinga,Basalt,Hindu
+587,Tomb/Mausoleum,772,Mughal,Akbar,Delhi,New Delhi,No,Administrative,Indo-Saracenic,Basalt,Syncretic
+588,Palace,937,Hoysala,Vishnuvardhana,Madhya Pradesh,Sanchi,No,Administrative,Rock-cut,Basalt,Syncretic
+589,Stepwell,898,Chalukya,Pulakeshin II,Bihar,Gaya,No,Religious,Kalinga-Nagara,Marble,Syncretic
+590,Pillar/Stambha,1753,Chola,Rani Rajya Chola,Maharashtra,Aurangabad,No,Military,Buddhist,Sandstone,Hindu
+591,Tomb/Mausoleum,1388,Chola,Raja Raja Chola,Uttar Pradesh,Varanasi,No,Administrative,Dravidian,Brick,Buddhist
+592,Temple,1212,Chola,Raja Raja Chola,Telangana,Warangal,No,Religious,Buddhist,Marble,Jain
+593,Palace,1185,Maratha,Shivaji Maharaj,West Bengal,Darjeeling,No,Memorial,Buddhist,Limestone,Christian
+594,Stepwell,1840,Maurya,Ashoka,West Bengal,Kolkata,No,Commemorative,Indo-Islamic,Marble,Hindu
+595,Temple,1284,Maurya,Ashoka,West Bengal,Shantiniketan,No,Commemorative,Indo-Saracenic,Granite,Syncretic
+596,Gateway/Arch,499,Unknown,Unknown,Bihar,Bodh Gaya,No,Residential,Indo-Saracenic,Brick,Buddhist
+597,Cave,1106,Pallava,Narendra Pallava,West Bengal,Kolkata,No,Administrative,Indo-Islamic,Granite,Buddhist
+598,Temple,1072,Maratha,Shivaji Maharaj,Kerala,Thiruvananthapuram,No,Memorial,Buddhist,Marble,Jain
+599,Cave,1542,Pallava,Narendra Pallava,Uttar Pradesh,Lucknow,No,Commemorative,Dravidian,Marble,Syncretic
+600,Watchtower,1531,Vijayanagara,Krishnadevaraya,Telangana,Hyderabad,No,Military,Indo-Saracenic,Marble,Syncretic
+601,Reservoir/Tank,1533,Vijayanagara,Harihara I,Andhra Pradesh,Guntur,No,Residential,Kalinga-Nagara,Sandstone,Buddhist
+602,Monastery,906,Mughal,Aurangzeb,Madhya Pradesh,Gwalior,No,Memorial,Kalinga-Nagara,Sandstone,Christian
+603,Stupa,1837,Vijayanagara,Krishnadevaraya,Telangana,Hyderabad,No,Administrative,Indo-Islamic,Basalt,Syncretic
+604,Watchtower,1169,Chola,Raja Raja Chola,Uttar Pradesh,Agra,Yes,Memorial,Rock-cut,Sandstone,Buddhist
+605,Stepwell,1182,Unknown,Unknown,Uttar Pradesh,Jhansi,No,Military,Kalinga,Brick,Buddhist
+606,Tomb/Mausoleum,1574,Chola,Rani Rajya Chola,Maharashtra,Mumbai,No,Administrative,Kalinga-Nagara,Limestone,Buddhist
+607,Cave,688,Vijayanagara,Krishnadevaraya,Bihar,Patna,No,Memorial,Kalinga-Nagara,Limestone,Jain
+608,Monastery,884,Mughal,Akbar,Maharashtra,Nagpur,No,Religious,Dravidian,Sandstone,Jain
+609,Rock-cut Shrine,1508,Hoysala,Vishnuvardhana,Andhra Pradesh,Vijayawada,No,Residential,Nagara,Sandstone,Buddhist
+610,Gateway/Arch,927,Vijayanagara,Harihara I,Odisha,Cuttack,No,Memorial,Dravidian,Basalt,Christian
+611,Stepwell,1886,Chola,Rani Rajya Chola,West Bengal,Shantiniketan,No,Memorial,Mixed,Limestone,Syncretic
+612,Monastery,1250,Maurya,Ashoka,Kerala,Thiruvananthapuram,No,Residential,Mixed,Sandstone,Christian
+613,Stepwell,1123,Maurya,Ashoka,Tamil Nadu,Chidambaram,No,Residential,Kalinga,Sandstone,Jain
+614,Monastery,501,Chola,Rani Rajya Chola,Delhi,Old Delhi,No,Residential,Mixed,Granite,Buddhist
+615,Rock-cut Shrine,893,Hoysala,Vishnuvardhana,Odisha,Bhubaneswar,No,Residential,Mixed,Limestone,Buddhist
+616,Mosque,1260,Vijayanagara,Krishna Deva Raya,Odisha,Bhubaneswar,No,Commemorative,Buddhist,Sandstone,Hindu
+617,Rock-cut Shrine,1394,Chola,Raja Raja Chola,Bihar,Nalanda,No,Commemorative,Buddhist,Brick,Syncretic
+618,Rock-cut Shrine,1824,Chola,Rani Rajya Chola,West Bengal,Murshidabad,Yes,Residential,Indo-Saracenic,Sandstone,Christian
+619,Pillar/Stambha,1454,Vijayanagara,Krishnadevaraya,Maharashtra,Aurangabad,Yes,Memorial,Indo-Islamic,Mixed,Buddhist
+620,Rock-cut Shrine,1757,Maratha,Shivaji Maharaj,Rajasthan,Jodhpur,No,Military,Indo-Islamic,Brick,Hindu
+621,Tomb/Mausoleum,1035,Gond,Rani Durgavati,Tamil Nadu,Chidambaram,No,Religious,Buddhist,Mixed,Christian
+622,Palace,1788,Gond,Rani Durgavati,Odisha,Puri,No,Administrative,Buddhist,Basalt,Hindu
+623,Stupa,1871,Unknown,Unknown,Gujarat,Dwarka,No,Military,Maru-Gurjara,Mixed,Hindu
+624,Temple,233,Mughal,Aurangzeb,Bihar,Bodh Gaya,No,Commemorative,Kalinga-Nagara,Limestone,Islam
+625,Stepwell,1466,Mughal,Aurangzeb,Tamil Nadu,Thanjavur,No,Memorial,Kalinga-Nagara,Marble,Syncretic
+626,Mosque,1893,Chalukya,Pulakeshin II,Madhya Pradesh,Sanchi,No,Commemorative,Nagara,Granite,Islam
+627,Tomb/Mausoleum,1082,Chola,Raja Raja Chola,Andhra Pradesh,Tirupati,No,Religious,Buddhist,Marble,Buddhist
+628,Watchtower,908,Vijayanagara,Krishna Deva Raya,Rajasthan,Jodhpur,No,Religious,Kalinga-Nagara,Sandstone,Hindu
+629,Monastery,1595,Vijayanagara,Harihara I,Bihar,Patna,No,Administrative,Rock-cut,Limestone,Islam
+630,Mosque,1809,Pallava,Narendra Pallava,Madhya Pradesh,Gwalior,No,Military,Buddhist,Brick,Jain
+631,Palace,224,Gond,Rani Durgavati,Gujarat,Junagadh,No,Military,Nagara,Brick,Syncretic
+632,Temple,1087,Hoysala,Vishnuvardhana,Andhra Pradesh,Nellore,No,Memorial,Maru-Gurjara,Brick,Hindu
+633,Tomb/Mausoleum,507,Pallava,Narendra Pallava,Rajasthan,Jodhpur,No,Religious,Rock-cut,Limestone,Hindu
+634,Rock-cut Shrine,1330,Unknown,Unknown,Uttar Pradesh,Jhansi,No,Commemorative,Maru-Gurjara,Sandstone,Islam
+635,Tomb/Mausoleum,339,Gond,Rani Durgavati,Odisha,Konark,No,Commemorative,Buddhist,Sandstone,Christian
+636,Rock-cut Shrine,733,Maratha,Shivaji Maharaj,Telangana,Warangal,Yes,Administrative,Rock-cut,Limestone,Christian
+637,Tomb/Mausoleum,1663,Chola,Raja Raja Chola,Madhya Pradesh,Gwalior,No,Commemorative,Kalinga,Sandstone,Hindu
+638,Pillar/Stambha,1492,Chola,Rani Rajya Chola,Bihar,Nalanda,No,Commemorative,Kalinga,Granite,Syncretic
+639,Fort,922,Chalukya,Pulakeshin II,Rajasthan,Chittorgarh,No,Administrative,Kalinga,Basalt,Buddhist
+640,Tomb/Mausoleum,406,Chola,Raja Raja Chola,Karnataka,Mysore,No,Residential,Mixed,Basalt,Hindu
+641,Cave,1837,Maratha,Shivaji Maharaj,Maharashtra,Pune,No,Religious,Rock-cut,Mixed,Buddhist
+642,Palace,1771,Vijayanagara,Harihara I,Kerala,Kochi,No,Religious,Mixed,Brick,Hindu
+643,Gateway/Arch,678,Maurya,Ashoka,Tamil Nadu,Chidambaram,No,Memorial,Mixed,Granite,Syncretic
+644,Reservoir/Tank,1629,Mughal,Akbar,Madhya Pradesh,Gwalior,No,Administrative,Kalinga,Sandstone,Islam
+645,Stupa,480,Chola,Raja Raja Chola,Odisha,Bhubaneswar,No,Administrative,Kalinga-Nagara,Granite,Christian
+646,Watchtower,873,Vijayanagara,Krishna Deva Raya,Kerala,Kollam,No,Military,Kalinga,Mixed,Christian
+647,Cave,826,Vijayanagara,Krishnadevaraya,Rajasthan,Bikaner,No,Religious,Buddhist,Granite,Syncretic
+648,Stepwell,1161,Chola,Rani Rajya Chola,Tamil Nadu,Thanjavur,No,Commemorative,Buddhist,Limestone,Christian
+649,Rock-cut Shrine,1847,Chola,Raja Raja Chola,Telangana,Hyderabad,No,Military,Buddhist,Mixed,Christian
+650,Fort,1151,Mughal,Aurangzeb,Delhi,Old Delhi,No,Military,Buddhist,Brick,Jain
+651,Stupa,1702,Vijayanagara,Krishnadevaraya,Maharashtra,Panhala,No,Residential,Rock-cut,Brick,Islam
+652,Fort,1037,Unknown,Unknown,Karnataka,Belur,No,Administrative,Kalinga,Sandstone,Islam
+653,Stepwell,1410,Chalukya,Pulakeshin II,Kerala,Thiruvananthapuram,No,Administrative,Nagara,Limestone,Islam
+654,Palace,1862,Vijayanagara,Krishnadevaraya,Madhya Pradesh,Ujjain,No,Commemorative,Indo-Saracenic,Basalt,Hindu
+655,Tomb/Mausoleum,1881,Hoysala,Vishnuvardhana,West Bengal,Murshidabad,No,Military,Mixed,Marble,Syncretic
+656,Rock-cut Shrine,1888,Unknown,Unknown,Bihar,Patna,No,Administrative,Nagara,Basalt,Christian
+657,Gateway/Arch,958,Vijayanagara,Harihara I,Kerala,Thiruvananthapuram,No,Memorial,Kalinga-Nagara,Granite,Hindu
+658,Cave,1139,Maurya,Ashoka,Delhi,Old Delhi,No,Administrative,Maru-Gurjara,Granite,Buddhist
+659,Tomb/Mausoleum,352,Gond,Rani Durgavati,Bihar,Patna,No,Administrative,Kalinga,Limestone,Jain
+660,Reservoir/Tank,1607,Chola,Rani Rajya Chola,Gujarat,Bhuj,No,Memorial,Kalinga,Mixed,Jain
+661,Pillar/Stambha,722,Vijayanagara,Harihara I,Uttar Pradesh,Agra,No,Religious,Indo-Islamic,Mixed,Islam
+662,Temple,1668,Chola,Raja Raja Chola,Kerala,Thiruvananthapuram,No,Military,Kalinga,Mixed,Hindu
+663,Reservoir/Tank,996,Vijayanagara,Harihara I,Madhya Pradesh,Ujjain,No,Military,Indo-Saracenic,Basalt,Christian
+664,Palace,1669,Unknown,Unknown,Odisha,Puri,No,Memorial,Indo-Islamic,Basalt,Islam
+665,Reservoir/Tank,698,Mughal,Aurangzeb,Tamil Nadu,Thanjavur,No,Military,Indo-Islamic,Basalt,Hindu
+666,Tomb/Mausoleum,1736,Chola,Rani Rajya Chola,Andhra Pradesh,Nellore,No,Residential,Buddhist,Sandstone,Christian
+667,Cave,1018,Chola,Rani Rajya Chola,Odisha,Konark,No,Memorial,Kalinga-Nagara,Granite,Jain
+668,Stepwell,1891,Chalukya,Pulakeshin II,Kerala,Kollam,No,Residential,Dravidian,Granite,Christian
+669,Monastery,1382,Vijayanagara,Krishnadevaraya,Karnataka,Halebidu,No,Residential,Mixed,Brick,Islam
+670,Fort,1123,Vijayanagara,Krishna Deva Raya,Kerala,Kozhikode,No,Memorial,Nagara,Brick,Syncretic
+671,Pillar/Stambha,551,Pallava,Narendra Pallava,Madhya Pradesh,Gwalior,No,Residential,Dravidian,Mixed,Jain
+672,Rock-cut Shrine,981,Hoysala,Vishnuvardhana,Odisha,Sonepur,No,Religious,Kalinga,Marble,Buddhist
+673,Rock-cut Shrine,1567,Maurya,Ashoka,Madhya Pradesh,Gwalior,No,Military,Buddhist,Brick,Christian
+674,Tomb/Mausoleum,1328,Maratha,Shivaji Maharaj,Bihar,Bodh Gaya,Yes,Administrative,Nagara,Basalt,Buddhist
+675,Stupa,487,Maratha,Shivaji Maharaj,Delhi,Old Delhi,No,Memorial,Kalinga,Mixed,Hindu
+676,Rock-cut Shrine,657,Chalukya,Pulakeshin II,Maharashtra,Panhala,No,Memorial,Indo-Islamic,Mixed,Islam
+677,Gateway/Arch,286,Vijayanagara,Krishnadevaraya,Maharashtra,Panhala,No,Residential,Indo-Islamic,Limestone,Jain
+678,Rock-cut Shrine,1516,Chola,Rani Rajya Chola,Gujarat,Vadodara,No,Memorial,Rock-cut,Brick,Hindu
+679,Temple,608,Gond,Rani Durgavati,Telangana,Hyderabad,No,Administrative,Buddhist,Marble,Syncretic
+680,Monastery,1072,Unknown,Unknown,Bihar,Gaya,No,Residential,Dravidian,Basalt,Islam
+681,Reservoir/Tank,1400,Pallava,Narendra Pallava,Uttar Pradesh,Mathura,No,Administrative,Rock-cut,Brick,Jain
+682,Cave,1211,Chola,Raja Raja Chola,Telangana,Warangal,No,Residential,Kalinga-Nagara,Marble,Jain
+683,Rock-cut Shrine,1500,Pallava,Narendra Pallava,West Bengal,Darjeeling,Yes,Administrative,Indo-Islamic,Marble,Islam
+684,Temple,1069,Chola,Raja Raja Chola,Tamil Nadu,Thanjavur,No,Military,Buddhist,Brick,Islam
+685,Temple,294,Maurya,Ashoka,Rajasthan,Udaipur,No,Memorial,Maru-Gurjara,Limestone,Christian
+686,Gateway/Arch,1685,Mughal,Aurangzeb,Karnataka,Hampi,No,Religious,Kalinga-Nagara,Mixed,Buddhist
+687,Monastery,1378,Mughal,Aurangzeb,Rajasthan,Jodhpur,No,Memorial,Kalinga,Basalt,Jain
+688,Stupa,275,Maratha,Shivaji Maharaj,Delhi,Old Delhi,No,Residential,Dravidian,Mixed,Jain
+689,Gateway/Arch,1026,Chola,Raja Raja Chola,Tamil Nadu,Kanchipuram,No,Residential,Maru-Gurjara,Basalt,Christian
+690,Mosque,1021,Mughal,Akbar,Odisha,Bhubaneswar,No,Memorial,Nagara,Limestone,Jain
+691,Fort,1557,Hoysala,Vishnuvardhana,Tamil Nadu,Thanjavur,No,Military,Dravidian,Basalt,Jain
+692,Reservoir/Tank,878,Vijayanagara,Krishna Deva Raya,Tamil Nadu,Thanjavur,No,Religious,Indo-Saracenic,Marble,Christian
+693,Monastery,1233,Vijayanagara,Krishna Deva Raya,Delhi,Old Delhi,Yes,Military,Nagara,Mixed,Christian
+694,Fort,1668,Chalukya,Pulakeshin II,West Bengal,Murshidabad,No,Religious,Kalinga,Brick,Jain
+695,Cave,1292,Chalukya,Pulakeshin II,Bihar,Patna,No,Memorial,Buddhist,Granite,Islam
+696,Stepwell,1607,Vijayanagara,Krishna Deva Raya,Kerala,Thiruvananthapuram,No,Memorial,Nagara,Basalt,Syncretic
+697,Rock-cut Shrine,819,Mughal,Akbar,Karnataka,Belur,No,Residential,Kalinga-Nagara,Granite,Buddhist
+698,Monastery,1228,Hoysala,Vishnuvardhana,Delhi,Old Delhi,Yes,Commemorative,Dravidian,Basalt,Hindu
+699,Stepwell,735,Gond,Rani Durgavati,Delhi,New Delhi,No,Memorial,Mixed,Brick,Buddhist
+700,Rock-cut Shrine,219,Gond,Rani Durgavati,Karnataka,Hampi,No,Memorial,Dravidian,Limestone,Buddhist
+701,Reservoir/Tank,514,Unknown,Unknown,Tamil Nadu,Madurai,No,Administrative,Nagara,Mixed,Jain
+702,Gateway/Arch,1417,Gond,Rani Durgavati,Madhya Pradesh,Khajuraho,No,Religious,Kalinga-Nagara,Limestone,Buddhist
+703,Tomb/Mausoleum,1712,Chalukya,Pulakeshin II,Andhra Pradesh,Amaravati,No,Military,Kalinga-Nagara,Granite,Christian
+704,Tomb/Mausoleum,377,Chalukya,Pulakeshin II,Delhi,New Delhi,No,Military,Nagara,Granite,Islam
+705,Watchtower,449,Chola,Rani Rajya Chola,Maharashtra,Aurangabad,No,Memorial,Indo-Islamic,Granite,Hindu
+706,Temple,1383,Maurya,Ashoka,Delhi,New Delhi,No,Memorial,Indo-Islamic,Granite,Hindu
+707,Rock-cut Shrine,1788,Vijayanagara,Krishna Deva Raya,Rajasthan,Chittorgarh,No,Memorial,Maru-Gurjara,Sandstone,Buddhist
+708,Palace,1339,Chola,Rani Rajya Chola,Odisha,Konark,No,Religious,Buddhist,Sandstone,Christian
+709,Cave,1086,Mughal,Akbar,Delhi,Old Delhi,No,Religious,Nagara,Sandstone,Christian
+710,Watchtower,1195,Mughal,Aurangzeb,Telangana,Bhuvanagiri,No,Religious,Maru-Gurjara,Brick,Islam
+711,Reservoir/Tank,1786,Gond,Rani Durgavati,Delhi,New Delhi,Yes,Religious,Indo-Islamic,Sandstone,Syncretic
+712,Palace,972,Chola,Rani Rajya Chola,Uttar Pradesh,Lucknow,No,Religious,Buddhist,Mixed,Hindu
+713,Mosque,1797,Pallava,Narendra Pallava,Kerala,Kochi,No,Memorial,Nagara,Granite,Buddhist
+714,Stepwell,1147,Chalukya,Pulakeshin II,Madhya Pradesh,Gwalior,No,Military,Nagara,Sandstone,Islam
+715,Gateway/Arch,1257,Mughal,Akbar,West Bengal,Murshidabad,Yes,Residential,Buddhist,Granite,Christian
+716,Palace,1766,Vijayanagara,Krishnadevaraya,Andhra Pradesh,Vijayawada,No,Residential,Rock-cut,Basalt,Buddhist
+717,Stupa,866,Maurya,Ashoka,Bihar,Bodh Gaya,No,Commemorative,Kalinga-Nagara,Brick,Hindu
+718,Monastery,1190,Chalukya,Pulakeshin II,Telangana,Warangal,No,Military,Kalinga,Sandstone,Christian
+719,Pillar/Stambha,1536,Chola,Raja Raja Chola,Bihar,Nalanda,No,Military,Mixed,Basalt,Jain
+720,Stupa,638,Vijayanagara,Krishna Deva Raya,Telangana,Warangal,No,Commemorative,Maru-Gurjara,Mixed,Buddhist
+721,Mosque,1306,Vijayanagara,Harihara I,Gujarat,Dwarka,No,Memorial,Dravidian,Granite,Jain
+722,Watchtower,1215,Hoysala,Vishnuvardhana,Tamil Nadu,Tiruchirappalli,No,Residential,Nagara,Brick,Jain
+723,Rock-cut Shrine,1524,Vijayanagara,Krishnadevaraya,Kerala,Thiruvananthapuram,No,Memorial,Kalinga,Marble,Buddhist
+724,Reservoir/Tank,1161,Gond,Rani Durgavati,Tamil Nadu,Tiruchirappalli,Yes,Administrative,Kalinga-Nagara,Mixed,Syncretic
+725,Tomb/Mausoleum,615,Vijayanagara,Krishnadevaraya,Odisha,Konark,No,Residential,Rock-cut,Mixed,Syncretic
+726,Stepwell,1641,Pallava,Narendra Pallava,Tamil Nadu,Thanjavur,No,Commemorative,Kalinga,Granite,Jain
+727,Pillar/Stambha,1383,Chola,Rani Rajya Chola,Madhya Pradesh,Sanchi,No,Memorial,Dravidian,Marble,Christian
+728,Stepwell,1117,Maurya,Ashoka,Tamil Nadu,Thanjavur,No,Memorial,Rock-cut,Marble,Buddhist
+729,Rock-cut Shrine,1442,Chalukya,Pulakeshin II,Karnataka,Halebidu,No,Memorial,Mixed,Sandstone,Hindu
+730,Tomb/Mausoleum,1531,Chalukya,Pulakeshin II,Delhi,New Delhi,No,Memorial,Kalinga,Marble,Christian
+731,Cave,1049,Pallava,Narendra Pallava,Tamil Nadu,Thanjavur,No,Memorial,Nagara,Limestone,Jain
+732,Stupa,989,Hoysala,Vishnuvardhana,Telangana,Bhuvanagiri,No,Residential,Nagara,Brick,Buddhist
+733,Stupa,1379,Chola,Raja Raja Chola,Andhra Pradesh,Vijayawada,No,Memorial,Kalinga,Sandstone,Hindu
+734,Watchtower,1324,Maratha,Shivaji Maharaj,Maharashtra,Pune,No,Residential,Mixed,Basalt,Buddhist
+735,Stupa,812,Unknown,Unknown,Odisha,Bhubaneswar,No,Memorial,Maru-Gurjara,Mixed,Christian
+736,Reservoir/Tank,1635,Gond,Rani Durgavati,Madhya Pradesh,Gwalior,No,Residential,Mixed,Limestone,Christian
+737,Tomb/Mausoleum,1205,Maratha,Shivaji Maharaj,Madhya Pradesh,Bhopal,No,Commemorative,Buddhist,Sandstone,Islam
+738,Cave,1290,Vijayanagara,Krishnadevaraya,Tamil Nadu,Madurai,No,Administrative,Indo-Islamic,Limestone,Syncretic
+739,Mosque,822,Chalukya,Pulakeshin II,Maharashtra,Pune,No,Commemorative,Indo-Islamic,Limestone,Jain
+740,Rock-cut Shrine,524,Chalukya,Pulakeshin II,Gujarat,Dwarka,No,Administrative,Rock-cut,Sandstone,Jain
+741,Fort,1715,Gond,Rani Durgavati,Kerala,Kollam,No,Commemorative,Indo-Islamic,Mixed,Jain
+742,Reservoir/Tank,1786,Maratha,Shivaji Maharaj,West Bengal,Shantiniketan,No,Military,Kalinga-Nagara,Mixed,Syncretic
+743,Cave,1791,Maurya,Ashoka,West Bengal,Murshidabad,Yes,Commemorative,Mixed,Sandstone,Hindu
+744,Monastery,968,Maurya,Ashoka,Madhya Pradesh,Bhopal,No,Administrative,Maru-Gurjara,Limestone,Christian
+745,Palace,751,Unknown,Unknown,Delhi,Old Delhi,No,Residential,Nagara,Basalt,Christian
+746,Pillar/Stambha,829,Mughal,Aurangzeb,Uttar Pradesh,Mathura,No,Memorial,Indo-Saracenic,Marble,Buddhist
+747,Cave,553,Chalukya,Pulakeshin II,Uttar Pradesh,Jhansi,No,Religious,Buddhist,Marble,Christian
+748,Tomb/Mausoleum,884,Hoysala,Vishnuvardhana,Odisha,Konark,No,Residential,Indo-Saracenic,Brick,Syncretic
+749,Fort,510,Gond,Rani Durgavati,Madhya Pradesh,Sanchi,No,Religious,Mixed,Mixed,Islam
+750,Fort,479,Vijayanagara,Harihara I,Madhya Pradesh,Ujjain,No,Memorial,Mixed,Sandstone,Jain
+751,Mosque,1597,Pallava,Narendra Pallava,Maharashtra,Pune,No,Administrative,Dravidian,Basalt,Islam
+752,Palace,202,Vijayanagara,Krishnadevaraya,Kerala,Thrissur,No,Memorial,Kalinga,Marble,Syncretic
+753,Stepwell,450,Maurya,Ashoka,Bihar,Bodh Gaya,No,Religious,Kalinga,Granite,Jain
+754,Monastery,1565,Mughal,Aurangzeb,Uttar Pradesh,Mathura,No,Religious,Buddhist,Brick,Syncretic
+755,Gateway/Arch,1098,Maurya,Ashoka,West Bengal,Kolkata,No,Memorial,Rock-cut,Sandstone,Jain
+756,Stupa,1126,Chalukya,Pulakeshin II,Maharashtra,Mumbai,No,Administrative,Kalinga,Granite,Islam
+757,Palace,1488,Hoysala,Vishnuvardhana,Karnataka,Halebidu,No,Administrative,Kalinga-Nagara,Granite,Buddhist
+758,Stupa,1672,Chola,Raja Raja Chola,Uttar Pradesh,Lucknow,Yes,Military,Kalinga-Nagara,Limestone,Islam
+759,Cave,1722,Chalukya,Pulakeshin II,Kerala,Kollam,No,Military,Nagara,Sandstone,Buddhist
+760,Tomb/Mausoleum,1839,Unknown,Unknown,Telangana,Hyderabad,No,Religious,Mixed,Limestone,Syncretic
+761,Gateway/Arch,217,Gond,Rani Durgavati,Karnataka,Hampi,No,Commemorative,Kalinga,Marble,Syncretic
+762,Watchtower,1651,Vijayanagara,Krishnadevaraya,Odisha,Sonepur,No,Memorial,Kalinga,Brick,Hindu
+763,Gateway/Arch,1533,Maratha,Shivaji Maharaj,Gujarat,Bhuj,No,Religious,Maru-Gurjara,Sandstone,Buddhist
+764,Fort,695,Hoysala,Vishnuvardhana,Delhi,New Delhi,Yes,Religious,Dravidian,Basalt,Buddhist
+765,Monastery,459,Maurya,Ashoka,Bihar,Patna,No,Religious,Kalinga,Granite,Syncretic
+766,Pillar/Stambha,1262,Mughal,Akbar,Delhi,New Delhi,No,Religious,Rock-cut,Sandstone,Hindu
+767,Pillar/Stambha,883,Unknown,Unknown,West Bengal,Shantiniketan,No,Administrative,Kalinga-Nagara,Limestone,Buddhist
+768,Tomb/Mausoleum,422,Vijayanagara,Krishna Deva Raya,Karnataka,Halebidu,Yes,Administrative,Kalinga,Sandstone,Buddhist
+769,Palace,1787,Chalukya,Pulakeshin II,West Bengal,Kolkata,No,Residential,Kalinga-Nagara,Brick,Buddhist
+770,Gateway/Arch,995,Vijayanagara,Harihara I,Karnataka,Bengaluru,No,Residential,Mixed,Sandstone,Buddhist
+771,Monastery,339,Gond,Rani Durgavati,Uttar Pradesh,Agra,No,Commemorative,Rock-cut,Mixed,Syncretic
+772,Cave,998,Maratha,Shivaji Maharaj,Tamil Nadu,Thanjavur,No,Commemorative,Kalinga-Nagara,Basalt,Syncretic
+773,Palace,1598,Unknown,Unknown,Telangana,Warangal,No,Residential,Maru-Gurjara,Basalt,Hindu
+774,Temple,1804,Mughal,Aurangzeb,Uttar Pradesh,Varanasi,No,Administrative,Indo-Saracenic,Granite,Jain
+775,Mosque,1156,Chola,Rani Rajya Chola,Karnataka,Hampi,No,Commemorative,Indo-Islamic,Granite,Hindu
+776,Pillar/Stambha,1714,Chola,Raja Raja Chola,Uttar Pradesh,Varanasi,No,Residential,Indo-Saracenic,Sandstone,Syncretic
+777,Tomb/Mausoleum,1710,Chalukya,Pulakeshin II,West Bengal,Shantiniketan,No,Residential,Kalinga-Nagara,Basalt,Jain
+778,Fort,701,Gond,Rani Durgavati,Maharashtra,Nagpur,No,Religious,Indo-Islamic,Sandstone,Hindu
+779,Monastery,1484,Vijayanagara,Harihara I,Telangana,Hyderabad,No,Commemorative,Rock-cut,Limestone,Buddhist
+780,Reservoir/Tank,1805,Hoysala,Vishnuvardhana,Karnataka,Hampi,No,Memorial,Maru-Gurjara,Basalt,Islam
+781,Watchtower,1241,Pallava,Narendra Pallava,Kerala,Kollam,No,Residential,Dravidian,Limestone,Hindu
+782,Monastery,993,Gond,Rani Durgavati,Karnataka,Belur,No,Military,Dravidian,Basalt,Hindu
+783,Rock-cut Shrine,641,Vijayanagara,Krishnadevaraya,Telangana,Warangal,No,Religious,Indo-Saracenic,Marble,Jain
+784,Reservoir/Tank,1041,Gond,Rani Durgavati,Odisha,Sonepur,No,Religious,Indo-Islamic,Limestone,Christian
+785,Stepwell,1662,Hoysala,Vishnuvardhana,Odisha,Sonepur,No,Religious,Rock-cut,Marble,Hindu
+786,Cave,1898,Maurya,Ashoka,Maharashtra,Aurangabad,No,Religious,Rock-cut,Mixed,Jain
+787,Cave,450,Mughal,Akbar,Uttar Pradesh,Jhansi,No,Religious,Kalinga,Sandstone,Christian
+788,Fort,811,Pallava,Narendra Pallava,Karnataka,Mysore,No,Memorial,Dravidian,Marble,Jain
+789,Stepwell,1157,Gond,Rani Durgavati,Madhya Pradesh,Sanchi,No,Residential,Dravidian,Limestone,Islam
+790,Fort,1403,Vijayanagara,Krishna Deva Raya,Uttar Pradesh,Mathura,No,Residential,Maru-Gurjara,Brick,Islam
+791,Mosque,1673,Vijayanagara,Harihara I,Delhi,Old Delhi,No,Religious,Buddhist,Sandstone,Syncretic
+792,Stupa,953,Chola,Rani Rajya Chola,Kerala,Kochi,No,Memorial,Maru-Gurjara,Basalt,Christian
+793,Pillar/Stambha,835,Chola,Rani Rajya Chola,West Bengal,Kolkata,No,Residential,Mixed,Mixed,Jain
+794,Reservoir/Tank,1817,Hoysala,Vishnuvardhana,Delhi,New Delhi,No,Administrative,Indo-Saracenic,Marble,Syncretic
+795,Stupa,1765,Mughal,Aurangzeb,Andhra Pradesh,Nellore,No,Religious,Mixed,Mixed,Buddhist
+796,Pillar/Stambha,1139,Unknown,Unknown,Kerala,Kochi,No,Memorial,Buddhist,Brick,Islam
+797,Pillar/Stambha,1362,Pallava,Narendra Pallava,Madhya Pradesh,Ujjain,No,Military,Rock-cut,Sandstone,Jain
+798,Gateway/Arch,964,Unknown,Unknown,West Bengal,Shantiniketan,No,Military,Nagara,Mixed,Syncretic
+799,Reservoir/Tank,441,Vijayanagara,Harihara I,Rajasthan,Jodhpur,Yes,Military,Nagara,Sandstone,Buddhist
+800,Monastery,1024,Vijayanagara,Harihara I,Delhi,Old Delhi,No,Military,Dravidian,Brick,Buddhist
+801,Tomb/Mausoleum,1864,Vijayanagara,Krishnadevaraya,Tamil Nadu,Kanchipuram,No,Residential,Dravidian,Brick,Syncretic
+802,Cave,1366,Vijayanagara,Harihara I,Tamil Nadu,Thanjavur,No,Memorial,Nagara,Marble,Jain
+803,Pillar/Stambha,1424,Pallava,Narendra Pallava,Gujarat,Ahmedabad,No,Commemorative,Kalinga-Nagara,Brick,Christian
+804,Pillar/Stambha,520,Chalukya,Pulakeshin II,Karnataka,Bengaluru,No,Residential,Kalinga-Nagara,Mixed,Syncretic
+805,Stepwell,855,Vijayanagara,Krishnadevaraya,West Bengal,Darjeeling,No,Residential,Kalinga,Sandstone,Jain
+806,Monastery,1159,Chola,Raja Raja Chola,Madhya Pradesh,Khajuraho,No,Residential,Mixed,Marble,Jain
+807,Cave,989,Unknown,Unknown,Rajasthan,Udaipur,Yes,Administrative,Dravidian,Marble,Syncretic
+808,Rock-cut Shrine,1546,Maratha,Shivaji Maharaj,West Bengal,Kolkata,No,Memorial,Indo-Saracenic,Limestone,Islam
+809,Watchtower,1754,Vijayanagara,Harihara I,Uttar Pradesh,Agra,No,Commemorative,Indo-Saracenic,Granite,Islam
+810,Stupa,1256,Vijayanagara,Krishnadevaraya,Telangana,Hyderabad,No,Residential,Rock-cut,Basalt,Syncretic
+811,Gateway/Arch,1804,Gond,Rani Durgavati,Rajasthan,Jaipur,No,Memorial,Indo-Saracenic,Brick,Islam
+812,Gateway/Arch,467,Pallava,Narendra Pallava,Telangana,Hyderabad,No,Administrative,Rock-cut,Granite,Jain
+813,Monastery,1354,Mughal,Aurangzeb,Kerala,Kollam,No,Residential,Indo-Islamic,Brick,Syncretic
+814,Stepwell,957,Chalukya,Pulakeshin II,Maharashtra,Mumbai,No,Military,Nagara,Limestone,Hindu
+815,Gateway/Arch,1721,Hoysala,Vishnuvardhana,West Bengal,Darjeeling,No,Memorial,Buddhist,Marble,Jain
+816,Gateway/Arch,945,Mughal,Akbar,Maharashtra,Panhala,No,Military,Indo-Saracenic,Granite,Islam
+817,Palace,223,Pallava,Narendra Pallava,Andhra Pradesh,Guntur,No,Military,Kalinga-Nagara,Brick,Syncretic
+818,Stupa,1473,Maurya,Ashoka,Odisha,Puri,No,Administrative,Kalinga-Nagara,Basalt,Jain
+819,Mosque,1421,Maurya,Ashoka,Karnataka,Mysore,No,Residential,Mixed,Brick,Jain
+820,Palace,1496,Unknown,Unknown,Odisha,Bhubaneswar,No,Memorial,Kalinga,Mixed,Islam
+821,Gateway/Arch,911,Unknown,Unknown,Maharashtra,Nagpur,No,Military,Maru-Gurjara,Marble,Jain
+822,Stupa,1542,Chola,Rani Rajya Chola,Maharashtra,Mumbai,No,Administrative,Maru-Gurjara,Basalt,Islam
+823,Temple,1247,Chalukya,Pulakeshin II,Odisha,Bhubaneswar,No,Military,Indo-Saracenic,Brick,Syncretic
+824,Rock-cut Shrine,1375,Chola,Raja Raja Chola,West Bengal,Murshidabad,No,Commemorative,Dravidian,Limestone,Hindu
+825,Pillar/Stambha,1347,Maurya,Ashoka,Odisha,Cuttack,No,Residential,Mixed,Marble,Christian
+826,Mosque,1873,Maurya,Ashoka,Andhra Pradesh,Amaravati,No,Military,Indo-Islamic,Limestone,Islam
+827,Mosque,743,Vijayanagara,Harihara I,Uttar Pradesh,Jhansi,Yes,Commemorative,Kalinga,Sandstone,Hindu
+828,Gateway/Arch,1588,Vijayanagara,Krishna Deva Raya,Maharashtra,Nagpur,No,Commemorative,Indo-Saracenic,Marble,Islam
+829,Watchtower,1258,Vijayanagara,Krishnadevaraya,Delhi,Old Delhi,No,Administrative,Buddhist,Marble,Buddhist
+830,Temple,828,Mughal,Akbar,Bihar,Gaya,No,Commemorative,Dravidian,Sandstone,Jain
+831,Fort,1807,Maurya,Ashoka,Odisha,Konark,No,Administrative,Rock-cut,Basalt,Syncretic
+832,Gateway/Arch,1452,Chola,Raja Raja Chola,Odisha,Bhubaneswar,No,Commemorative,Nagara,Marble,Buddhist
+833,Gateway/Arch,1257,Mughal,Aurangzeb,Maharashtra,Panhala,No,Religious,Maru-Gurjara,Limestone,Christian
+834,Stepwell,1553,Hoysala,Vishnuvardhana,Madhya Pradesh,Bhopal,No,Religious,Nagara,Basalt,Islam
+835,Stepwell,1276,Chola,Raja Raja Chola,Bihar,Patna,No,Religious,Rock-cut,Mixed,Buddhist
+836,Reservoir/Tank,1122,Maratha,Shivaji Maharaj,Telangana,Bhuvanagiri,No,Religious,Dravidian,Limestone,Islam
+837,Rock-cut Shrine,1883,Vijayanagara,Krishnadevaraya,Odisha,Cuttack,No,Commemorative,Dravidian,Sandstone,Syncretic
+838,Watchtower,1691,Chola,Raja Raja Chola,Tamil Nadu,Thanjavur,No,Military,Kalinga,Basalt,Buddhist
+839,Fort,413,Vijayanagara,Krishnadevaraya,Telangana,Warangal,No,Memorial,Indo-Saracenic,Basalt,Islam
+840,Fort,1211,Vijayanagara,Harihara I,Bihar,Nalanda,No,Administrative,Kalinga,Brick,Syncretic
+841,Gateway/Arch,903,Gond,Rani Durgavati,Bihar,Patna,No,Commemorative,Indo-Saracenic,Basalt,Jain
+842,Tomb/Mausoleum,989,Chola,Rani Rajya Chola,Andhra Pradesh,Tirupati,No,Residential,Indo-Saracenic,Sandstone,Syncretic
+843,Monastery,1459,Gond,Rani Durgavati,Kerala,Kollam,No,Commemorative,Mixed,Limestone,Hindu
+844,Stupa,330,Mughal,Aurangzeb,Karnataka,Belur,No,Residential,Maru-Gurjara,Marble,Christian
+845,Fort,1826,Chola,Raja Raja Chola,Tamil Nadu,Chidambaram,No,Religious,Indo-Saracenic,Limestone,Jain
+846,Cave,842,Hoysala,Vishnuvardhana,West Bengal,Shantiniketan,No,Memorial,Dravidian,Limestone,Hindu
+847,Gateway/Arch,843,Vijayanagara,Harihara I,Maharashtra,Pune,No,Administrative,Kalinga,Brick,Islam
+848,Pillar/Stambha,1650,Unknown,Unknown,Delhi,Old Delhi,Yes,Military,Indo-Islamic,Mixed,Buddhist
+849,Gateway/Arch,1745,Pallava,Narendra Pallava,Madhya Pradesh,Gwalior,Yes,Religious,Dravidian,Granite,Jain
+850,Monastery,1799,Maratha,Shivaji Maharaj,Bihar,Gaya,No,Memorial,Kalinga-Nagara,Limestone,Islam
+851,Tomb/Mausoleum,865,Vijayanagara,Krishnadevaraya,West Bengal,Murshidabad,No,Religious,Maru-Gurjara,Granite,Hindu
+852,Palace,875,Mughal,Aurangzeb,Gujarat,Ahmedabad,No,Administrative,Indo-Saracenic,Sandstone,Syncretic
+853,Mosque,812,Chola,Raja Raja Chola,Rajasthan,Chittorgarh,No,Memorial,Indo-Islamic,Sandstone,Syncretic
+854,Temple,1900,Mughal,Akbar,Odisha,Konark,Yes,Residential,Kalinga,Sandstone,Christian
+855,Reservoir/Tank,1743,Vijayanagara,Harihara I,Tamil Nadu,Thanjavur,No,Administrative,Buddhist,Mixed,Syncretic
+856,Temple,1049,Pallava,Narendra Pallava,Kerala,Kollam,No,Residential,Kalinga-Nagara,Limestone,Syncretic
+857,Temple,962,Pallava,Narendra Pallava,Tamil Nadu,Chidambaram,No,Residential,Kalinga,Granite,Syncretic
+858,Pillar/Stambha,1656,Gond,Rani Durgavati,Karnataka,Belur,No,Military,Indo-Saracenic,Brick,Hindu
+859,Cave,1060,Mughal,Akbar,Gujarat,Vadodara,No,Memorial,Rock-cut,Limestone,Christian
+860,Rock-cut Shrine,1727,Unknown,Unknown,Maharashtra,Aurangabad,No,Military,Rock-cut,Brick,Jain
+861,Reservoir/Tank,889,Mughal,Akbar,Rajasthan,Jaipur,No,Religious,Kalinga-Nagara,Sandstone,Jain
+862,Palace,825,Maurya,Ashoka,Odisha,Cuttack,No,Memorial,Kalinga,Marble,Islam
+863,Temple,1646,Vijayanagara,Harihara I,Telangana,Bhuvanagiri,No,Religious,Kalinga-Nagara,Granite,Buddhist
+864,Cave,1348,Hoysala,Vishnuvardhana,Odisha,Cuttack,No,Memorial,Kalinga,Limestone,Buddhist
+865,Rock-cut Shrine,648,Hoysala,Vishnuvardhana,Madhya Pradesh,Khajuraho,No,Administrative,Nagara,Basalt,Hindu
+866,Gateway/Arch,1820,Chola,Raja Raja Chola,Telangana,Hyderabad,No,Commemorative,Nagara,Sandstone,Buddhist
+867,Tomb/Mausoleum,1176,Unknown,Unknown,Rajasthan,Chittorgarh,No,Commemorative,Indo-Islamic,Granite,Syncretic
+868,Gateway/Arch,1297,Vijayanagara,Harihara I,Maharashtra,Mumbai,No,Residential,Dravidian,Mixed,Buddhist
+869,Fort,1167,Hoysala,Vishnuvardhana,Kerala,Kochi,No,Memorial,Rock-cut,Basalt,Syncretic
+870,Tomb/Mausoleum,1211,Vijayanagara,Harihara I,Delhi,Old Delhi,No,Administrative,Indo-Saracenic,Basalt,Jain
+871,Monastery,210,Vijayanagara,Krishna Deva Raya,Uttar Pradesh,Agra,No,Religious,Mixed,Mixed,Hindu
+872,Stepwell,237,Mughal,Aurangzeb,Andhra Pradesh,Vijayawada,No,Religious,Indo-Islamic,Brick,Christian
+873,Stepwell,1149,Vijayanagara,Krishna Deva Raya,West Bengal,Shantiniketan,No,Memorial,Kalinga,Limestone,Syncretic
+874,Gateway/Arch,1071,Chola,Rani Rajya Chola,Uttar Pradesh,Agra,No,Memorial,Indo-Saracenic,Sandstone,Jain
+875,Tomb/Mausoleum,1753,Vijayanagara,Krishna Deva Raya,Kerala,Kozhikode,No,Commemorative,Indo-Saracenic,Marble,Buddhist
+876,Stepwell,1430,Pallava,Narendra Pallava,Kerala,Kollam,No,Religious,Kalinga,Limestone,Buddhist
+877,Cave,1464,Maurya,Ashoka,Rajasthan,Bikaner,No,Commemorative,Mixed,Granite,Christian
+878,Rock-cut Shrine,1059,Chola,Raja Raja Chola,Delhi,Old Delhi,No,Commemorative,Dravidian,Brick,Islam
+879,Temple,1428,Gond,Rani Durgavati,Uttar Pradesh,Agra,No,Religious,Kalinga-Nagara,Marble,Syncretic
+880,Pillar/Stambha,1847,Unknown,Unknown,Gujarat,Dwarka,No,Commemorative,Maru-Gurjara,Limestone,Islam
+881,Rock-cut Shrine,1178,Mughal,Akbar,Delhi,New Delhi,No,Administrative,Rock-cut,Granite,Christian
+882,Monastery,635,Unknown,Unknown,Delhi,Old Delhi,No,Religious,Nagara,Basalt,Hindu
+883,Palace,990,Mughal,Aurangzeb,Maharashtra,Nagpur,No,Administrative,Indo-Saracenic,Limestone,Christian
+884,Pillar/Stambha,1017,Gond,Rani Durgavati,Andhra Pradesh,Amaravati,No,Residential,Buddhist,Brick,Syncretic
+885,Mosque,1035,Vijayanagara,Krishnadevaraya,Maharashtra,Panhala,No,Religious,Mixed,Brick,Christian
+886,Temple,1873,Chalukya,Pulakeshin II,Odisha,Konark,No,Religious,Kalinga-Nagara,Granite,Jain
+887,Temple,861,Chalukya,Pulakeshin II,Madhya Pradesh,Gwalior,No,Commemorative,Rock-cut,Marble,Islam
+888,Mosque,1732,Maurya,Ashoka,Delhi,New Delhi,No,Military,Kalinga,Marble,Buddhist
+889,Fort,835,Unknown,Unknown,Odisha,Bhubaneswar,No,Administrative,Indo-Saracenic,Granite,Jain
+890,Tomb/Mausoleum,1228,Vijayanagara,Krishna Deva Raya,Odisha,Cuttack,No,Military,Kalinga-Nagara,Mixed,Buddhist
+891,Reservoir/Tank,1244,Vijayanagara,Krishna Deva Raya,Odisha,Konark,No,Memorial,Nagara,Marble,Christian
+892,Stepwell,824,Mughal,Aurangzeb,Andhra Pradesh,Vijayawada,No,Religious,Kalinga,Basalt,Syncretic
+893,Pillar/Stambha,1617,Pallava,Narendra Pallava,West Bengal,Kolkata,No,Administrative,Nagara,Brick,Syncretic
+894,Pillar/Stambha,1884,Pallava,Narendra Pallava,Madhya Pradesh,Sanchi,No,Religious,Buddhist,Sandstone,Christian
+895,Temple,906,Mughal,Akbar,Kerala,Kochi,No,Religious,Kalinga-Nagara,Mixed,Jain
+896,Stepwell,1804,Unknown,Unknown,Madhya Pradesh,Gwalior,No,Military,Rock-cut,Granite,Jain
+897,Cave,847,Chola,Raja Raja Chola,Telangana,Bhuvanagiri,No,Commemorative,Mixed,Granite,Buddhist
+898,Mosque,1009,Mughal,Aurangzeb,Rajasthan,Jaipur,No,Commemorative,Dravidian,Sandstone,Christian
+899,Stupa,964,Vijayanagara,Krishnadevaraya,West Bengal,Kolkata,No,Residential,Rock-cut,Basalt,Islam
+900,Palace,1106,Chola,Rani Rajya Chola,Karnataka,Hampi,No,Administrative,Buddhist,Sandstone,Christian
+901,Temple,1084,Vijayanagara,Harihara I,Karnataka,Mysore,No,Residential,Buddhist,Granite,Hindu
+902,Watchtower,1404,Mughal,Akbar,Tamil Nadu,Kanchipuram,No,Military,Mixed,Mixed,Syncretic
+903,Fort,1813,Mughal,Akbar,Andhra Pradesh,Nellore,No,Administrative,Indo-Islamic,Mixed,Islam
+904,Watchtower,1869,Gond,Rani Durgavati,Delhi,New Delhi,No,Administrative,Dravidian,Granite,Jain
+905,Temple,1794,Maratha,Shivaji Maharaj,Maharashtra,Mumbai,No,Residential,Kalinga,Limestone,Syncretic
+906,Palace,1823,Maratha,Shivaji Maharaj,Telangana,Bhuvanagiri,No,Administrative,Indo-Islamic,Granite,Syncretic
+907,Stepwell,1444,Vijayanagara,Krishna Deva Raya,Rajasthan,Jaipur,No,Military,Kalinga,Limestone,Jain
+908,Reservoir/Tank,1568,Hoysala,Vishnuvardhana,Delhi,Old Delhi,No,Military,Buddhist,Brick,Islam
+909,Palace,1107,Chalukya,Pulakeshin II,Uttar Pradesh,Lucknow,No,Religious,Indo-Islamic,Granite,Syncretic
+910,Reservoir/Tank,769,Vijayanagara,Krishna Deva Raya,Tamil Nadu,Thanjavur,No,Administrative,Buddhist,Brick,Jain
+911,Watchtower,655,Mughal,Aurangzeb,Bihar,Patna,No,Administrative,Rock-cut,Granite,Jain
+912,Fort,1280,Mughal,Akbar,Maharashtra,Mumbai,Yes,Memorial,Dravidian,Basalt,Buddhist
+913,Palace,510,Hoysala,Vishnuvardhana,Rajasthan,Jodhpur,No,Residential,Maru-Gurjara,Brick,Buddhist
+914,Monastery,1515,Maurya,Ashoka,Tamil Nadu,Kanchipuram,No,Commemorative,Indo-Saracenic,Sandstone,Hindu
+915,Watchtower,1179,Chola,Rani Rajya Chola,Odisha,Puri,Yes,Military,Kalinga-Nagara,Brick,Christian
+916,Mosque,1092,Unknown,Unknown,Maharashtra,Mumbai,No,Commemorative,Mixed,Sandstone,Syncretic
+917,Rock-cut Shrine,1559,Mughal,Aurangzeb,Bihar,Patna,No,Residential,Buddhist,Limestone,Hindu
+918,Gateway/Arch,1743,Unknown,Unknown,Bihar,Patna,No,Memorial,Kalinga,Basalt,Hindu
+919,Watchtower,1530,Maurya,Ashoka,Odisha,Cuttack,No,Residential,Indo-Saracenic,Marble,Christian
+920,Cave,785,Hoysala,Vishnuvardhana,Andhra Pradesh,Vijayawada,No,Residential,Maru-Gurjara,Granite,Syncretic
+921,Mosque,833,Mughal,Aurangzeb,Gujarat,Bhuj,No,Residential,Nagara,Brick,Hindu
+922,Tomb/Mausoleum,1643,Unknown,Unknown,Tamil Nadu,Chidambaram,No,Residential,Maru-Gurjara,Marble,Hindu
+923,Gateway/Arch,1207,Mughal,Akbar,Uttar Pradesh,Agra,No,Residential,Kalinga-Nagara,Granite,Christian
+924,Pillar/Stambha,262,Maurya,Ashoka,Bihar,Gaya,No,Religious,Rock-cut,Basalt,Syncretic
+925,Temple,1121,Vijayanagara,Harihara I,Tamil Nadu,Tiruchirappalli,No,Religious,Nagara,Granite,Syncretic
+926,Stepwell,620,Mughal,Akbar,Rajasthan,Chittorgarh,Yes,Administrative,Kalinga-Nagara,Mixed,Syncretic
+927,Tomb/Mausoleum,1118,Chola,Rani Rajya Chola,Andhra Pradesh,Nellore,No,Memorial,Rock-cut,Granite,Syncretic
+928,Cave,1411,Chola,Raja Raja Chola,Odisha,Sonepur,No,Religious,Kalinga-Nagara,Granite,Syncretic
+929,Pillar/Stambha,721,Maratha,Shivaji Maharaj,Telangana,Hyderabad,No,Memorial,Indo-Saracenic,Marble,Jain
+930,Mosque,1362,Vijayanagara,Krishnadevaraya,Maharashtra,Pune,No,Administrative,Kalinga-Nagara,Marble,Jain
+931,Stupa,1855,Hoysala,Vishnuvardhana,Delhi,Old Delhi,No,Commemorative,Indo-Islamic,Sandstone,Jain
+932,Temple,1137,Mughal,Aurangzeb,Rajasthan,Jodhpur,No,Administrative,Dravidian,Sandstone,Buddhist
+933,Stepwell,1300,Mughal,Akbar,Kerala,Thiruvananthapuram,No,Commemorative,Maru-Gurjara,Brick,Hindu
+934,Pillar/Stambha,1893,Chola,Rani Rajya Chola,Odisha,Konark,No,Residential,Kalinga-Nagara,Marble,Islam
+935,Tomb/Mausoleum,1808,Mughal,Akbar,Karnataka,Belur,No,Military,Maru-Gurjara,Granite,Syncretic
+936,Monastery,1640,Hoysala,Vishnuvardhana,Gujarat,Bhuj,No,Residential,Indo-Saracenic,Brick,Buddhist
+937,Temple,230,Pallava,Narendra Pallava,Tamil Nadu,Kanchipuram,No,Residential,Indo-Islamic,Granite,Islam
+938,Temple,1504,Mughal,Akbar,Madhya Pradesh,Gwalior,No,Commemorative,Indo-Islamic,Marble,Buddhist
+939,Palace,222,Vijayanagara,Krishnadevaraya,Uttar Pradesh,Mathura,No,Religious,Kalinga,Mixed,Hindu
+940,Reservoir/Tank,1414,Chalukya,Pulakeshin II,Maharashtra,Nagpur,No,Military,Kalinga,Sandstone,Jain
+941,Watchtower,1745,Vijayanagara,Krishna Deva Raya,Uttar Pradesh,Varanasi,No,Military,Nagara,Granite,Buddhist
+942,Stepwell,1626,Chola,Rani Rajya Chola,Gujarat,Dwarka,No,Administrative,Maru-Gurjara,Basalt,Hindu
+943,Stupa,1636,Mughal,Akbar,Telangana,Bhuvanagiri,No,Administrative,Kalinga,Granite,Buddhist
+944,Rock-cut Shrine,681,Hoysala,Vishnuvardhana,Odisha,Puri,No,Military,Kalinga-Nagara,Brick,Hindu
+945,Monastery,892,Chalukya,Pulakeshin II,Delhi,Old Delhi,No,Memorial,Rock-cut,Brick,Christian
+946,Stupa,1898,Mughal,Aurangzeb,Odisha,Konark,No,Military,Maru-Gurjara,Granite,Buddhist
+947,Palace,1256,Vijayanagara,Harihara I,Gujarat,Vadodara,No,Commemorative,Indo-Islamic,Limestone,Islam
+948,Stupa,981,Mughal,Akbar,Maharashtra,Mumbai,No,Administrative,Dravidian,Limestone,Jain
+949,Monastery,989,Hoysala,Vishnuvardhana,Andhra Pradesh,Nellore,Yes,Residential,Rock-cut,Basalt,Islam
+950,Stupa,1668,Chola,Raja Raja Chola,Odisha,Puri,No,Administrative,Mixed,Marble,Christian
+951,Palace,273,Chalukya,Pulakeshin II,Delhi,Old Delhi,No,Commemorative,Mixed,Granite,Buddhist
+952,Stupa,1582,Mughal,Akbar,Uttar Pradesh,Lucknow,No,Memorial,Kalinga-Nagara,Brick,Buddhist
+953,Tomb/Mausoleum,1222,Chalukya,Pulakeshin II,Rajasthan,Jaipur,No,Administrative,Indo-Saracenic,Mixed,Jain
+954,Reservoir/Tank,1190,Vijayanagara,Krishnadevaraya,Tamil Nadu,Tiruchirappalli,No,Military,Indo-Saracenic,Mixed,Buddhist
+955,Palace,1203,Pallava,Narendra Pallava,Gujarat,Vadodara,No,Residential,Buddhist,Mixed,Syncretic
+956,Gateway/Arch,1195,Vijayanagara,Krishna Deva Raya,Karnataka,Mysore,No,Residential,Maru-Gurjara,Basalt,Jain
+957,Mosque,1432,Maratha,Shivaji Maharaj,Tamil Nadu,Kanchipuram,No,Memorial,Dravidian,Brick,Jain
+958,Stepwell,1186,Vijayanagara,Harihara I,Uttar Pradesh,Varanasi,No,Commemorative,Mixed,Mixed,Islam
+959,Mosque,538,Chola,Rani Rajya Chola,Madhya Pradesh,Khajuraho,No,Administrative,Kalinga-Nagara,Brick,Christian
+960,Stepwell,595,Mughal,Akbar,Andhra Pradesh,Vijayawada,No,Administrative,Nagara,Basalt,Islam
+961,Fort,766,Vijayanagara,Krishnadevaraya,Bihar,Bodh Gaya,No,Religious,Kalinga-Nagara,Granite,Jain
+962,Stupa,950,Mughal,Aurangzeb,Karnataka,Belur,No,Religious,Nagara,Limestone,Jain
+963,Cave,1721,Vijayanagara,Harihara I,Tamil Nadu,Madurai,No,Administrative,Nagara,Sandstone,Buddhist
+964,Stepwell,1512,Vijayanagara,Krishnadevaraya,West Bengal,Kolkata,No,Residential,Maru-Gurjara,Mixed,Islam
+965,Mosque,1618,Chola,Rani Rajya Chola,Bihar,Gaya,No,Memorial,Mixed,Sandstone,Syncretic
+966,Mosque,1223,Vijayanagara,Harihara I,Gujarat,Ahmedabad,No,Commemorative,Maru-Gurjara,Limestone,Christian
+967,Monastery,1394,Maratha,Shivaji Maharaj,Odisha,Konark,No,Memorial,Buddhist,Brick,Islam
+968,Stepwell,1480,Vijayanagara,Harihara I,Delhi,Old Delhi,No,Memorial,Indo-Islamic,Sandstone,Christian
+969,Rock-cut Shrine,1703,Vijayanagara,Krishna Deva Raya,Andhra Pradesh,Vijayawada,No,Commemorative,Maru-Gurjara,Granite,Buddhist
+970,Reservoir/Tank,1523,Gond,Rani Durgavati,Kerala,Kollam,Yes,Commemorative,Mixed,Basalt,Hindu
+971,Tomb/Mausoleum,1720,Gond,Rani Durgavati,Karnataka,Halebidu,Yes,Administrative,Kalinga,Sandstone,Buddhist
+972,Reservoir/Tank,1773,Vijayanagara,Harihara I,Tamil Nadu,Thanjavur,Yes,Residential,Indo-Saracenic,Marble,Buddhist
+973,Rock-cut Shrine,1635,Mughal,Aurangzeb,Rajasthan,Jaipur,Yes,Residential,Buddhist,Brick,Jain
+974,Rock-cut Shrine,1444,Gond,Rani Durgavati,Kerala,Kochi,No,Military,Kalinga,Mixed,Buddhist
+975,Mosque,1074,Vijayanagara,Krishna Deva Raya,Madhya Pradesh,Khajuraho,No,Memorial,Indo-Islamic,Basalt,Hindu
+976,Mosque,892,Mughal,Akbar,Bihar,Bodh Gaya,No,Administrative,Dravidian,Brick,Syncretic
+977,Gateway/Arch,1836,Mughal,Aurangzeb,West Bengal,Kolkata,No,Memorial,Nagara,Brick,Jain
+978,Temple,586,Hoysala,Vishnuvardhana,Tamil Nadu,Chidambaram,No,Military,Maru-Gurjara,Sandstone,Islam
+979,Temple,1646,Unknown,Unknown,Tamil Nadu,Tiruchirappalli,No,Religious,Nagara,Sandstone,Buddhist
+980,Mosque,1346,Vijayanagara,Harihara I,Telangana,Bhuvanagiri,No,Commemorative,Nagara,Limestone,Islam
+981,Palace,1705,Vijayanagara,Harihara I,Gujarat,Dwarka,No,Religious,Maru-Gurjara,Granite,Buddhist
+982,Stepwell,1313,Vijayanagara,Harihara I,Maharashtra,Mumbai,No,Religious,Buddhist,Sandstone,Buddhist
+983,Cave,423,Vijayanagara,Harihara I,Rajasthan,Bikaner,No,Religious,Kalinga-Nagara,Marble,Jain
+984,Stupa,1633,Mughal,Aurangzeb,Delhi,New Delhi,No,Memorial,Indo-Saracenic,Brick,Syncretic
+985,Gateway/Arch,1370,Chalukya,Pulakeshin II,Maharashtra,Aurangabad,No,Residential,Kalinga-Nagara,Granite,Christian
+986,Watchtower,1314,Mughal,Akbar,Bihar,Nalanda,No,Commemorative,Kalinga-Nagara,Granite,Hindu
+987,Pillar/Stambha,340,Chalukya,Pulakeshin II,Andhra Pradesh,Vijayawada,No,Military,Kalinga,Basalt,Buddhist
+988,Palace,1755,Vijayanagara,Krishna Deva Raya,Bihar,Patna,No,Commemorative,Indo-Islamic,Marble,Islam
+989,Watchtower,1725,Mughal,Aurangzeb,Delhi,New Delhi,No,Military,Kalinga,Mixed,Hindu
+990,Palace,828,Mughal,Aurangzeb,Uttar Pradesh,Lucknow,No,Residential,Maru-Gurjara,Sandstone,Christian
+991,Reservoir/Tank,703,Chola,Raja Raja Chola,Maharashtra,Nagpur,No,Military,Dravidian,Sandstone,Syncretic
+992,Mosque,1510,Mughal,Akbar,Maharashtra,Mumbai,No,Memorial,Nagara,Limestone,Jain
+993,Palace,1111,Mughal,Akbar,Maharashtra,Pune,No,Residential,Kalinga,Marble,Christian
+994,Gateway/Arch,1382,Chalukya,Pulakeshin II,Gujarat,Junagadh,No,Residential,Indo-Saracenic,Basalt,Buddhist
+995,Rock-cut Shrine,880,Unknown,Unknown,Kerala,Kozhikode,No,Residential,Buddhist,Mixed,Hindu
+996,Pillar/Stambha,1084,Vijayanagara,Krishna Deva Raya,Karnataka,Mysore,No,Residential,Kalinga,Sandstone,Jain
+997,Watchtower,1374,Chalukya,Pulakeshin II,Rajasthan,Chittorgarh,No,Military,Buddhist,Sandstone,Buddhist
+998,Gateway/Arch,1172,Chalukya,Pulakeshin II,Tamil Nadu,Thanjavur,No,Residential,Indo-Saracenic,Basalt,Jain
+999,Monastery,1102,Chola,Raja Raja Chola,Uttar Pradesh,Jhansi,No,Residential,Dravidian,Basalt,Hindu
+1000,Tomb/Mausoleum,931,Hoysala,Vishnuvardhana,Maharashtra,Pune,No,Memorial,Rock-cut,Mixed,Christian
